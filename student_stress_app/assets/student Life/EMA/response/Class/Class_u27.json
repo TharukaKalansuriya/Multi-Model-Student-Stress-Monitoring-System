@@ -1,0 +1,174 @@
+[
+    {
+        "null": "43.70634108,-72.2870727",
+        "resp_time": 1364121801
+    },
+    {
+        "null": "1",
+        "resp_time": 1364118617
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121454
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121451
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121453
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70405331,-72.28579164",
+        "resp_time": 1364690401
+    },
+    {
+        "course_id": "japn33",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70655446,-72.28713909",
+        "resp_time": 1364503039
+    },
+    {
+        "course_id": "film 42",
+        "due": "2",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70274374,-72.28756665",
+        "resp_time": 1364541625
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70754161,-72.28527106",
+        "resp_time": 1364583738
+    },
+    {
+        "course_id": "econ 24",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70413216,-72.28586105",
+        "resp_time": 1364860823
+    },
+    {
+        "course_id": "econ 24",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70389316,-72.28575202",
+        "resp_time": 1364782076
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70435602,-72.28669392",
+        "resp_time": 1365015557
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70413216,-72.28586105",
+        "resp_time": 1364849556
+    },
+    {
+        "course_id": "japn 33",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70388196,-72.28583882",
+        "resp_time": 1364942576
+    },
+    {
+        "course_id": "japn33",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70360692,-72.28575871",
+        "resp_time": 1365027244
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70586093,-72.28868897",
+        "resp_time": 1365447142
+    },
+    {
+        "course_id": "econ24",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70475035,-72.28638803",
+        "resp_time": 1365187438
+    },
+    {
+        "course_id": "econ24",
+        "due": "1",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70586093,-72.28868897",
+        "resp_time": 1365447124
+    },
+    {
+        "course_id": "japn33",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70494158,-72.28811294",
+        "resp_time": 1366423092
+    },
+    {
+        "course_id": "econ24",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70494158,-72.28811294",
+        "resp_time": 1366423120
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7040426,-72.28552632",
+        "resp_time": 1365818496
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70400104,-72.28585139",
+        "resp_time": 1366245784
+    },
+    {
+        "course_id": "econ 24",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70424431,-72.28559775",
+        "resp_time": 1366305406
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70494158,-72.28811294",
+        "resp_time": 1366419747
+    }
+]

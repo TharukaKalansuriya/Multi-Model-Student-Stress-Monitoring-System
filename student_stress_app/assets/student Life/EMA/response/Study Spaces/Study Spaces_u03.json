@@ -1,0 +1,30 @@
+[
+    {
+        "location": "43.70540394,-72.28307552",
+        "null": "1",
+        "place": "home",
+        "productivity": "3",
+        "resp_time": 1366564802
+    },
+    {
+        "location": "43.7053217,-72.28324033",
+        "null": "3",
+        "place": "dana",
+        "productivity": "1",
+        "resp_time": 1366598841
+    },
+    {
+        "location": "43.70526826,-72.28322872",
+        "null": "1",
+        "place": "home",
+        "productivity": "1",
+        "resp_time": 1366689747
+    },
+    {
+        "location": "43.70528148,-72.28337421",
+        "noise": "1",
+        "place": "home",
+        "productivity": "1",
+        "resp_time": 1367186409
+    }
+]

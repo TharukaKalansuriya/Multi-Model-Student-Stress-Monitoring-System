@@ -1,0 +1,37 @@
+[
+    {
+        "location": "43.7053473,-72.28304112",
+        "null": "1",
+        "place": "Dana public area\n",
+        "productivity": "1",
+        "resp_time": 1366332505
+    },
+    {
+        "location": "43.70050113,-72.28882743",
+        "null": "1",
+        "place": "dana",
+        "productivity": "2",
+        "resp_time": 1366402636
+    },
+    {
+        "location": "43.70511029,-72.28334179",
+        "noise": "1",
+        "place": "home\n",
+        "productivity": "1",
+        "resp_time": 1366920238
+    },
+    {
+        "location": "43.70554288,-72.28320827",
+        "null": "1",
+        "place": "dana",
+        "productivity": "3",
+        "resp_time": 1366571135
+    },
+    {
+        "location": "43.70781043,-72.28349771",
+        "null": "1",
+        "place": "sudi",
+        "productivity": "4",
+        "resp_time": 1366668034
+    }
+]

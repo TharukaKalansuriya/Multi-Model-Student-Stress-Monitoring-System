@@ -1,0 +1,198 @@
+[
+    {
+        "null": "bvc",
+        "resp_time": 1364118927
+    },
+    {
+        "null": "2",
+        "resp_time": 1364122068
+    },
+    {
+        "null": "gf",
+        "resp_time": 1364122074
+    },
+    {
+        "null": "7",
+        "resp_time": 1364122070
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122073
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70428082,-72.28776631",
+        "resp_time": 1365016457
+    },
+    {
+        "course_id": "cs65\n",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1364546204
+    },
+    {
+        "course_id": "EARS3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70570121,-72.29643446",
+        "resp_time": 1364546202
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70402365,-72.29064013",
+        "resp_time": 1364615509
+    },
+    {
+        "course_id": "ears3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70306492,-72.29079677",
+        "resp_time": 1365023616
+    },
+    {
+        "course_id": "span3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70428082,-72.28776631",
+        "resp_time": 1365012151
+    },
+    {
+        "course_id": "span3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "41.49583437,-71.45812765",
+        "resp_time": 1365395363
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "41.49583437,-71.45812765",
+        "resp_time": 1365395364
+    },
+    {
+        "course_id": "span3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70384519,-72.28717248",
+        "resp_time": 1365444320
+    },
+    {
+        "course_id": "ears3",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365488072
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1365488061
+    },
+    {
+        "course_id": "span3",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365791284
+    },
+    {
+        "course_id": "span3",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70578547,-72.28703541",
+        "resp_time": 1365617112
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70578547,-72.28703541",
+        "resp_time": 1365621066
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "9",
+        "location": "43.7052318,-72.29189415",
+        "resp_time": 1366075660
+    },
+    {
+        "course_id": "span3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70423505,-72.29046602",
+        "resp_time": 1365530070
+    },
+    {
+        "course_id": "ears3",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.7052318,-72.29189415",
+        "resp_time": 1366075673
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1365793928
+    },
+    {
+        "course_id": "ears3",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70591041,-72.28826857",
+        "resp_time": 1366167559
+    },
+    {
+        "course_id": "span3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70808053,-72.28506786",
+        "resp_time": 1366049032
+    },
+    {
+        "course_id": "span3",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366397947
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1366397965
+    }
+]

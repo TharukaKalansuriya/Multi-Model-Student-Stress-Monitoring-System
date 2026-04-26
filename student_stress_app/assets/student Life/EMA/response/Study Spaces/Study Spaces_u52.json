@@ -1,0 +1,23 @@
+[
+    {
+        "location": "43.70695033333333,-72.28859525",
+        "null": "2",
+        "place": "I wasn't...",
+        "productivity": "1",
+        "resp_time": 1366331735
+    },
+    {
+        "location": "43.70293613333333,-72.29078188333334",
+        "null": "3",
+        "place": "I wasn't",
+        "productivity": "1",
+        "resp_time": 1366412416
+    },
+    {
+        "location": "43.70303251666667,-72.29060545",
+        "null": "4",
+        "place": "frat common room",
+        "productivity": "3",
+        "resp_time": 1366778972
+    }
+]

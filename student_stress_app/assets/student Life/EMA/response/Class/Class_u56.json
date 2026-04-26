@@ -1,0 +1,86 @@
+[
+    {
+        "null": "try",
+        "resp_time": 1364118731
+    },
+    {
+        "null": "43.70514469,-72.28850985",
+        "resp_time": 1364122232
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122234
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122235
+    },
+    {
+        "null": "y",
+        "resp_time": 1364122238
+    },
+    {
+        "course_id": "no class",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.01433773,-72.34858847",
+        "resp_time": 1365471163
+    },
+    {
+        "course_id": "n/a",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7167643,-72.3092846",
+        "resp_time": 1365641091
+    },
+    {
+        "course_id": "I'm not taking any classes",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.71653168,-72.30894632",
+        "resp_time": 1365553136
+    },
+    {
+        "course_id": "n/a",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.71657251,-72.30919906",
+        "resp_time": 1365742911
+    },
+    {
+        "course_id": "n/a",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.71190002,-72.30815066",
+        "resp_time": 1365814719
+    },
+    {
+        "course_id": "n/a",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.71644852,-72.30936993",
+        "resp_time": 1365906092
+    },
+    {
+        "course_id": "na",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.71663112,-72.309151",
+        "resp_time": 1366314110
+    },
+    {
+        "course_id": "no class",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70309359,-72.28791234",
+        "resp_time": 1366419725
+    }
+]

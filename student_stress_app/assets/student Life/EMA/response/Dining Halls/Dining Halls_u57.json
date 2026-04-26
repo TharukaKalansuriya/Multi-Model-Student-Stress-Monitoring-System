@@ -1,0 +1,100 @@
+[
+    {
+        "breakfast": "8",
+        "dinner": "3",
+        "location": "43.70698087,-72.28888032",
+        "lunch": "1",
+        "resp_time": 1366750466
+    },
+    {
+        "breakfast": "8",
+        "dinner": "2",
+        "location": "43.70718906,-72.28844903",
+        "lunch": "8",
+        "resp_time": 1366651708
+    },
+    {
+        "breakfast": "4",
+        "dinner": "3",
+        "location": "43.70712537,-72.28865602",
+        "lunch": "5",
+        "resp_time": 1366825072
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70717609,-72.28924103",
+        "lunch": "7",
+        "resp_time": 1366997337
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70262136,-72.29084874",
+        "lunch": "1",
+        "resp_time": 1367317718
+    },
+    {
+        "breakfast": "2",
+        "dinner": "3",
+        "location": "43.7072135,-72.28866234",
+        "lunch": "8",
+        "resp_time": 1367566270
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.7069901,-72.28912932",
+        "lunch": "8",
+        "resp_time": 1367611967
+    },
+    {
+        "breakfast": "1",
+        "dinner": "7",
+        "location": "43.70252572,-72.28846877",
+        "lunch": "1",
+        "resp_time": 1367698174
+    },
+    {
+        "breakfast": "1",
+        "dinner": "2",
+        "location": "43.70767843,-72.28476978",
+        "lunch": "1",
+        "resp_time": 1368035958
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70719834,-72.28918779",
+        "lunch": "3",
+        "resp_time": 1368561656
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70725121,-72.28852697",
+        "lunch": "1",
+        "resp_time": 1368131497
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70707912,-72.28881876",
+        "lunch": "2",
+        "resp_time": 1367967098
+    },
+    {
+        "breakfast": "2",
+        "dinner": "1",
+        "location": "43.70714542,-72.28859899",
+        "lunch": "8",
+        "resp_time": 1367787480
+    },
+    {
+        "breakfast": "7",
+        "dinner": "2",
+        "location": "43.7071945,-72.2892314",
+        "lunch": "7",
+        "resp_time": 1368389749
+    }
+]

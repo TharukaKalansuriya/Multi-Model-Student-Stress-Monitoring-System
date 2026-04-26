@@ -1,0 +1,156 @@
+[
+    {
+        "location": "43.69212123,-72.2668641",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1366327418
+    },
+    {
+        "location": "43.69208513,-72.26685017",
+        "null": "1",
+        "place": "home",
+        "productivity": "3",
+        "resp_time": 1366522232
+    },
+    {
+        "location": "43.70938367,-72.28461173",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "2",
+        "resp_time": 1366480647
+    },
+    {
+        "location": "43.70791477,-72.28597094",
+        "null": "1",
+        "place": "sudikoff\n",
+        "productivity": "2",
+        "resp_time": 1366592230
+    },
+    {
+        "location": "43.70957133,-72.28436521",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1366690062
+    },
+    {
+        "location": "43.69935873,-72.28135033",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "2",
+        "resp_time": 1366849803
+    },
+    {
+        "location": "43.70973693,-72.28455604",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1367133848
+    },
+    {
+        "location": "43.6920329,-72.26703169",
+        "noise": "1",
+        "place": "sudikuff",
+        "productivity": "3",
+        "resp_time": 1366940208
+    },
+    {
+        "location": "43.69149444,-72.26930575",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1367204111
+    },
+    {
+        "location": "43.69224381,-72.26703204",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1367335666
+    },
+    {
+        "location": "43.70760249,-72.286058",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1367448532
+    },
+    {
+        "location": "43.69179181,-72.26669013",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1367595259
+    },
+    {
+        "location": "43.69230186,-72.26682816",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1368030470
+    },
+    {
+        "location": "43.69231606,-72.26691986",
+        "noise": "1",
+        "place": "home",
+        "productivity": "2",
+        "resp_time": 1368333112
+    },
+    {
+        "location": "43.69230057,-72.26685047",
+        "noise": "1",
+        "place": "home",
+        "productivity": "2",
+        "resp_time": 1368161220
+    },
+    {
+        "location": "43.69175278,-72.26719117",
+        "noise": "1",
+        "place": "sudikoff master lab",
+        "productivity": "3",
+        "resp_time": 1368584183
+    },
+    {
+        "location": "43.69209645,-72.26736409",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1368772485
+    },
+    {
+        "location": "43.69227839,-72.26699842",
+        "noise": "1",
+        "place": "home",
+        "productivity": "3",
+        "resp_time": 1368486293
+    },
+    {
+        "location": "43.692126,-72.26679446",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1368928085
+    },
+    {
+        "location": "43.69230186,-72.26692699",
+        "noise": "1",
+        "place": "honr",
+        "productivity": "1",
+        "resp_time": 1369068280
+    },
+    {
+        "location": "43.69216296,-72.26701332",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1369118876
+    },
+    {
+        "location": "43.69476866,-72.27943547",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1369503838
+    }
+]

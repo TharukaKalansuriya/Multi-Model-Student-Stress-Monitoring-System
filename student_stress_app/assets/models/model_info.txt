@@ -1,0 +1,50 @@
+======================================================================
+UCI HAR Random Forest Model - Information
+======================================================================
+
+MODEL DETAILS
+----------------------------------------------------------------------
+Model Type: Random Forest Classifier
+Number of Trees: 100
+Max Depth: 20
+Min Samples Split: 5
+Min Samples Leaf: 2
+Random State: 42
+
+DATASET INFORMATION
+----------------------------------------------------------------------
+Dataset: UCI Human Activity Recognition Using Smartphones
+Samples: Train=7,352, Test=2,947
+Features: 561 (time + frequency domain)
+Activities: 6 (WALKING, WALKING_UP, WALKING_DOWN, SITTING, STANDING, LAYING)
+Sensors: Accelerometer + Gyroscope (3-axis each)
+Sampling Rate: 50 Hz
+
+PERFORMANCE METRICS
+----------------------------------------------------------------------
+Accuracy:  0.9240 (92.40%)
+Precision: 0.9251
+Recall:    0.9240
+F1-Score:  0.9237
+
+FEATURE INFORMATION
+----------------------------------------------------------------------
+Input: 561 features extracted from sensor signals
+Output: Activity class (1-6)
+Feature types:
+  - Time domain: Mean, STD, Min, Max, Energy, Entropy, etc.
+  - Frequency domain: FFT coefficients, spectral power, etc.
+  - Angles: Between acceleration vectors and gravity
+
+ACTIVITY LABELS
+----------------------------------------------------------------------
+  1: WALKING
+  2: WALKING_UPSTAIRS
+  3: WALKING_DOWNSTAIRS
+  4: SITTING
+  5: STANDING
+  6: LAYING
+
+======================================================================
+Model ready for deployment in physical activity stress analysis
+======================================================================

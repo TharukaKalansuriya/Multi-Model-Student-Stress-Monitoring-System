@@ -1,0 +1,16 @@
+2013-02-20 17:47:29,Collis Cafe,Supper
+2013-02-21 18:15:20,Collis Cafe,Supper
+2013-02-23 18:25:15,53 Commons,Supper
+2013-02-25 17:55:50,Collis Cafe,Supper
+2013-03-06 20:52:15,Courtyard Cafe,Supper
+2013-03-08 19:05:02,53 Commons,Supper
+2013-03-08 19:14:44,Courtyard Cafe,Supper
+2013-03-13 10:24:40,Courtyard Cafe,Snack
+2013-03-14 13:17:09,53 Commons,Lunch
+2013-03-14 14:15:45,Courtyard Cafe,Snack
+2013-03-14 15:14:44,Courtyard Cafe,Snack
+2013-03-14 15:15:19,53 Commons,Snack
+2013-03-14 15:17:23,Courtyard Cafe,Snack
+2013-03-14 18:20:41,Courtyard Cafe,Supper
+2013-03-29 18:02:52,Courtyard Cafe,Supper
+2013-04-10 14:03:12,Courtyard Cafe,Lunch

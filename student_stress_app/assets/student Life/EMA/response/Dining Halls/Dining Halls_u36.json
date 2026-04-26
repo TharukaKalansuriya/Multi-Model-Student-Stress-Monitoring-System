@@ -1,0 +1,37 @@
+[
+    {
+        "breakfast": "7",
+        "dinner": "7",
+        "location": "37.33932807,-122.03905765",
+        "lunch": "7",
+        "resp_time": 1366858158
+    },
+    {
+        "breakfast": "7",
+        "dinner": "7",
+        "location": "43.65166823,-72.30992951",
+        "lunch": "7",
+        "resp_time": 1367788182
+    },
+    {
+        "breakfast": "8",
+        "dinner": "8",
+        "location": "43.70655165,-72.28703441",
+        "lunch": "8",
+        "resp_time": 1368148661
+    },
+    {
+        "breakfast": "7",
+        "dinner": "7",
+        "location": "43.65172278,-72.30983724",
+        "lunch": "7",
+        "resp_time": 1367617317
+    },
+    {
+        "breakfast": "8",
+        "dinner": "8",
+        "location": "43.70673436,-72.28690084",
+        "lunch": "8",
+        "resp_time": 1368564620
+    }
+]

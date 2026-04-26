@@ -1,0 +1,26 @@
+[
+    {
+        "angry": "5",
+        "apathetic": "3",
+        "appreciative": "2",
+        "disappointed": "3",
+        "empathic": "3",
+        "frustrated": "3",
+        "location": "43.70343829,-72.28645877",
+        "proud": "2",
+        "resp_time": 1366926950,
+        "saddened": "3"
+    },
+    {
+        "angry": "3",
+        "apathetic": "2",
+        "appreciative": "3",
+        "disappointed": "1",
+        "empathic": "4",
+        "frustrated": "3",
+        "location": "43.7049437,-72.28880281",
+        "proud": "5",
+        "resp_time": 1367898711,
+        "saddened": "2"
+    }
+]

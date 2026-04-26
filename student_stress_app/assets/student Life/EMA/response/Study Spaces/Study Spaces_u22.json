@@ -1,0 +1,44 @@
+[
+    {
+        "location": "43.70426635,-72.29067159",
+        "null": "1",
+        "place": "north mass 409",
+        "productivity": "4",
+        "resp_time": 1366339361
+    },
+    {
+        "location": "43.70421657,-72.29058518",
+        "null": "1",
+        "place": "",
+        "productivity": "2",
+        "resp_time": 1366516818
+    },
+    {
+        "location": "43.70440331,-72.29084007",
+        "null": "4",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1366790367
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "dorm",
+        "productivity": "4",
+        "resp_time": 1368336081
+    },
+    {
+        "location": "43.70419189,-72.29048043",
+        "noise": "1",
+        "place": "dorm",
+        "productivity": "4",
+        "resp_time": 1368159544
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "dirm",
+        "productivity": "4",
+        "resp_time": 1368505656
+    }
+]

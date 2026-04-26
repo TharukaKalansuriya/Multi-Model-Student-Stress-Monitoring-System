@@ -1,0 +1,18 @@
+[
+    {
+        "location": "43.70713043333333,-72.28888498333333",
+        "negative": "6",
+        "nevent": "living",
+        "pevent": "living",
+        "positive": "3",
+        "resp_time": 1366393843
+    },
+    {
+        "location": "43.70777698333333,-72.28647206666666",
+        "negative": "3",
+        "nevent": "",
+        "pevent": "",
+        "positive": "7",
+        "resp_time": 1366962452
+    }
+]

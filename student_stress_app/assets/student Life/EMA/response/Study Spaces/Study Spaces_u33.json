@@ -1,0 +1,58 @@
+[
+    {
+        "location": "43.70746347,-72.28509434",
+        "null": "1",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1366329746
+    },
+    {
+        "location": "43.70325436,-72.29599763",
+        "null": "4",
+        "place": "my room",
+        "productivity": "3",
+        "resp_time": 1366413711
+    },
+    {
+        "location": "43.70364552,-72.29593922",
+        "null": "1",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1366588830
+    },
+    {
+        "location": "43.70498883,-72.29288287",
+        "noise": "4",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1367306487
+    },
+    {
+        "location": "43.70367694,-72.29573173",
+        "noise": "1",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1367359206
+    },
+    {
+        "location": "43.70096638,-72.28858467",
+        "noise": "1",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1368244793
+    },
+    {
+        "location": "43.70583433,-72.28880318",
+        "noise": "3",
+        "place": "m210",
+        "productivity": "4",
+        "resp_time": 1367625619
+    },
+    {
+        "location": "Unknown",
+        "noise": "4",
+        "place": "Novack",
+        "productivity": "3",
+        "resp_time": 1369880442
+    }
+]

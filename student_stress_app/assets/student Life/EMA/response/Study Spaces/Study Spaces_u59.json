@@ -1,0 +1,149 @@
+[
+    {
+        "location": "43.70400148909539,-72.28680146858096",
+        "null": "3",
+        "place": "212 Russell Sage",
+        "productivity": "2",
+        "resp_time": 1366387254
+    },
+    {
+        "location": "43.705345443449914,-72.29143733158708",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "4",
+        "resp_time": 1366951064
+    },
+    {
+        "location": "43.70547582395375,-72.2784311324358",
+        "null": "3",
+        "place": "my room",
+        "productivity": "2",
+        "resp_time": 1366537547
+    },
+    {
+        "location": "43.702177251689136,-72.29007745161653",
+        "null": "2",
+        "place": "Collis",
+        "productivity": "3",
+        "resp_time": 1366588854
+    },
+    {
+        "location": "Unknown",
+        "null": "2",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1366689641
+    },
+    {
+        "location": "43.703413414768875,-72.28902460075915",
+        "null": "3",
+        "place": "Hop Piano room",
+        "productivity": "2",
+        "resp_time": 1366844762
+    },
+    {
+        "location": "43.70494935661554,-72.28806420229375",
+        "null": "1",
+        "place": "Hitchcock basement",
+        "productivity": "4",
+        "resp_time": 1366653361
+    },
+    {
+        "location": "43.70499914512038,-72.29045648127794",
+        "noise": "2",
+        "place": "Novack",
+        "productivity": "4",
+        "resp_time": 1366934101
+    },
+    {
+        "location": "43.705437812022865,-72.29115846566856",
+        "noise": "3",
+        "place": "my dorm floor",
+        "productivity": "2",
+        "resp_time": 1366964347
+    },
+    {
+        "location": "43.706689733080566,-72.28658253327012",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "4",
+        "resp_time": 1367223342
+    },
+    {
+        "location": "43.70524217840284,-72.28784015402198",
+        "noise": "1",
+        "place": "my room",
+        "productivity": "3",
+        "resp_time": 1367275959
+    },
+    {
+        "location": "43.70579710230231,-72.29083056561649",
+        "noise": "3",
+        "place": "Sudikoff 003",
+        "productivity": "4",
+        "resp_time": 1367348650
+    },
+    {
+        "location": "43.703870521858335,-72.28751443326473",
+        "noise": "1",
+        "place": "Sudikoff",
+        "productivity": "3",
+        "resp_time": 1367945970
+    },
+    {
+        "location": "43.706466439180076,-72.28715711273253",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1368014890
+    },
+    {
+        "location": "Unknown",
+        "noise": "3",
+        "place": "airplane",
+        "productivity": "2",
+        "resp_time": 1368597922
+    },
+    {
+        "location": "43.705461281351745,-72.2910166438669",
+        "noise": "3",
+        "place": "Collis Dining",
+        "productivity": "3",
+        "resp_time": 1369127735
+    },
+    {
+        "location": "43.70286435820162,-72.28974292986095",
+        "noise": "1",
+        "place": "Rainbow Room",
+        "productivity": "2",
+        "resp_time": 1369201154
+    },
+    {
+        "location": "Unknown",
+        "noise": "3",
+        "place": "Collis",
+        "productivity": "4",
+        "resp_time": 1369792991
+    },
+    {
+        "location": "43.70550733990967,-72.2909749019891",
+        "noise": "1",
+        "place": "Novack",
+        "productivity": "4",
+        "resp_time": 1369681776
+    },
+    {
+        "location": "43.705819859169424,-72.29087230749428",
+        "noise": "4",
+        "place": "Russell Sage 212",
+        "productivity": "1",
+        "resp_time": 1369595866
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "Graduate Apartments",
+        "productivity": "4",
+        "resp_time": 1369858194
+    }
+]

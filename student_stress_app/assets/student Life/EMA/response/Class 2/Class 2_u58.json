@@ -1,0 +1,51 @@
+[
+    {
+        "challenge": "3",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70607202,-72.28334181",
+        "resp_time": 1367008555
+    },
+    {
+        "challenge": "3",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.7061874,-72.28305411",
+        "resp_time": 1367004132
+    },
+    {
+        "challenge": "4",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70615354,-72.28325043",
+        "resp_time": 1366959764
+    },
+    {
+        "challenge": "3",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70402022,-72.28262527",
+        "resp_time": 1367093712
+    },
+    {
+        "challenge": "3",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70618386,-72.28315307",
+        "resp_time": 1367362815
+    },
+    {
+        "challenge": "4",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70647378,-72.28294033",
+        "resp_time": 1368416719
+    },
+    {
+        "challenge": "4",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70617903,-72.28339178",
+        "resp_time": 1368237629
+    }
+]

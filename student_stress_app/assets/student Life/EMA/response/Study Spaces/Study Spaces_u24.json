@@ -1,0 +1,23 @@
+[
+    {
+        "location": "43.70768728,-72.28472492",
+        "null": "1",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1366416601
+    },
+    {
+        "location": "43.70337047,-72.29016063",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "2",
+        "resp_time": 1366523971
+    },
+    {
+        "location": "43.70636729,-72.29144404",
+        "noise": "2",
+        "place": "m&S's department, silsby",
+        "productivity": "2",
+        "resp_time": 1368848059
+    }
+]

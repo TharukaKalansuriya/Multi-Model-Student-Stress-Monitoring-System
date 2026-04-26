@@ -1,0 +1,107 @@
+[
+    {
+        "location": "43.70590563,-72.28948565",
+        "null": "2",
+        "place": "room",
+        "productivity": "3",
+        "resp_time": 1366352254
+    },
+    {
+        "location": "43.70360785,-72.29084752",
+        "null": "2",
+        "place": "room",
+        "productivity": "4",
+        "resp_time": 1366412462
+    },
+    {
+        "location": "43.70371738,-72.29052339",
+        "null": "3",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1366522645
+    },
+    {
+        "location": "43.70383449,-72.29122954",
+        "noise": "1",
+        "place": "room",
+        "productivity": "3",
+        "resp_time": 1367037349
+    },
+    {
+        "location": "43.70388114,-72.29106228",
+        "null": "1",
+        "place": "room",
+        "productivity": "3",
+        "resp_time": 1366590399
+    },
+    {
+        "location": "43.70379379,-72.29137476",
+        "null": "2",
+        "place": "lab",
+        "productivity": "4",
+        "resp_time": 1366576643
+    },
+    {
+        "location": "43.70388114,-72.29106228",
+        "null": "1",
+        "place": "room",
+        "productivity": "4",
+        "resp_time": 1366585137
+    },
+    {
+        "location": "43.70378913,-72.29087644",
+        "noise": "1",
+        "place": "dorm room",
+        "productivity": "3",
+        "resp_time": 1367186627
+    },
+    {
+        "location": "43.70376088,-72.29035391",
+        "noise": "3",
+        "place": "lab 005  sudikoff",
+        "productivity": "3",
+        "resp_time": 1367359262
+    },
+    {
+        "location": "Unknown",
+        "noise": "4",
+        "place": "dorm room",
+        "productivity": "1",
+        "resp_time": 1367446570
+    },
+    {
+        "location": "43.70661175,-72.28789246",
+        "noise": "2",
+        "place": "lab 005",
+        "productivity": "3",
+        "resp_time": 1367532731
+    },
+    {
+        "location": "Unknown",
+        "noise": "3",
+        "place": "dorm room",
+        "productivity": "1",
+        "resp_time": 1368422674
+    },
+    {
+        "location": "43.70397531,-72.28989529",
+        "noise": "4",
+        "place": "dorm room",
+        "productivity": "3",
+        "resp_time": 1367712937
+    },
+    {
+        "location": "43.70317722,-72.28939878",
+        "noise": "4",
+        "place": "dorm room",
+        "productivity": "1",
+        "resp_time": 1368250107
+    },
+    {
+        "location": "43.70374249,-72.29050587",
+        "noise": "2",
+        "place": "lab 005",
+        "productivity": "3",
+        "resp_time": 1368653595
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "location": "43.70264346,-72.28707",
+        "negative": "5",
+        "nevent": "",
+        "pevent": "",
+        "positive": "4",
+        "resp_time": 1366341915
+    },
+    {
+        "location": "43.70738477,-72.28920103",
+        "negative": "3",
+        "nevent": "",
+        "pevent": "",
+        "positive": "4",
+        "resp_time": 1366560429
+    },
+    {
+        "location": "43.70728871,-72.28933649",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1366677830
+    },
+    {
+        "location": "43.70661507,-72.28695128",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1366957991
+    },
+    {
+        "location": "43.70729947,-72.28943574",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1367682529
+    }
+]

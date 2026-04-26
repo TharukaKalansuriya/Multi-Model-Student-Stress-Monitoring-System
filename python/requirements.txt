@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+tensorflow-hub
+numpy
+python-multipart
+scikit-learn
+joblib
+langchain
+langgraph
+langchain-google-genai
+python-dotenv

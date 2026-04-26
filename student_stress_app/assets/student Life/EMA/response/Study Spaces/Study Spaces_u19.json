@@ -1,0 +1,156 @@
+[
+    {
+        "location": "43.70692759,-72.28739722",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "4",
+        "resp_time": 1366336226
+    },
+    {
+        "location": "43.7067391,-72.28556913",
+        "null": "1",
+        "place": "berry study lounge",
+        "productivity": "2",
+        "resp_time": 1366517503
+    },
+    {
+        "location": "43.7067805,-72.28550931",
+        "null": "1",
+        "place": "McLaughlin",
+        "productivity": "3",
+        "resp_time": 1366592268
+    },
+    {
+        "location": "43.70670747,-72.28550624",
+        "noise": "1",
+        "place": "mcloughlin",
+        "productivity": "3",
+        "resp_time": 1367192086
+    },
+    {
+        "location": "43.70453889,-72.28787543",
+        "null": "3",
+        "place": "novack",
+        "productivity": "3",
+        "resp_time": 1366776589
+    },
+    {
+        "location": "43.70581683,-72.28726988",
+        "noise": "1",
+        "place": "McLaughlin",
+        "productivity": "3",
+        "resp_time": 1367273036
+    },
+    {
+        "location": "43.70676468,-72.28542565",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "4",
+        "resp_time": 1366689805
+    },
+    {
+        "location": "43.70725706,-72.28685085",
+        "noise": "2",
+        "place": "tiltfactor",
+        "productivity": "3",
+        "resp_time": 1367532088
+    },
+    {
+        "location": "43.70701211,-72.28611727",
+        "noise": "1",
+        "place": "collis",
+        "productivity": "3",
+        "resp_time": 1368349611
+    },
+    {
+        "location": "43.70680418,-72.28601166",
+        "noise": "1",
+        "place": "McLaughlin",
+        "productivity": "3",
+        "resp_time": 1368219666
+    },
+    {
+        "location": "43.70639951,-72.28840249",
+        "noise": "1",
+        "place": "sudikoff 001",
+        "productivity": "4",
+        "resp_time": 1368044225
+    },
+    {
+        "location": "43.70662811,-72.28716203",
+        "noise": "2",
+        "place": "Collis 223",
+        "productivity": "3",
+        "resp_time": 1368161232
+    },
+    {
+        "location": "43.70690988,-72.28699822",
+        "noise": "2",
+        "place": "alpha theta",
+        "productivity": "3",
+        "resp_time": 1367607012
+    },
+    {
+        "location": "43.70726531,-72.28611408",
+        "noise": "1",
+        "place": "McLaughlin",
+        "productivity": "3",
+        "resp_time": 1367652278
+    },
+    {
+        "location": "43.70743065,-72.286434",
+        "noise": "1",
+        "place": "sudikoff 001",
+        "productivity": "3",
+        "resp_time": 1368417835
+    },
+    {
+        "location": "43.70650157,-72.28532126",
+        "noise": "1",
+        "place": "sudikoff 001",
+        "productivity": "4",
+        "resp_time": 1368519339
+    },
+    {
+        "location": "43.70670191,-72.28568105",
+        "noise": "1",
+        "place": "sudikoff 001",
+        "productivity": "4",
+        "resp_time": 1368504041
+    },
+    {
+        "location": "43.70701211,-72.28611727",
+        "noise": "1",
+        "place": "Collis 212",
+        "productivity": "3",
+        "resp_time": 1368331443
+    },
+    {
+        "location": "43.70712264,-72.28701115",
+        "noise": "1",
+        "place": "sudikoff 001",
+        "productivity": "4",
+        "resp_time": 1369127561
+    },
+    {
+        "location": "43.7040776,-72.29042456",
+        "noise": "1",
+        "place": "sarner ",
+        "productivity": "4",
+        "resp_time": 1369210268
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "McLaughlin",
+        "productivity": "3",
+        "resp_time": 1369383383
+    },
+    {
+        "location": "43.70709334,-72.28524117",
+        "noise": "2",
+        "place": "sudikoff 001",
+        "productivity": "4",
+        "resp_time": 1369561983
+    }
+]

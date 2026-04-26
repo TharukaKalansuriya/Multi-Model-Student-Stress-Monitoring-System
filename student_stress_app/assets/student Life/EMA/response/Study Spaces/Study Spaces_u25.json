@@ -1,0 +1,16 @@
+[
+    {
+        "location": "43.70586391,-72.28875037",
+        "null": "3",
+        "place": "Sudi 003",
+        "productivity": "3",
+        "resp_time": 1366424359
+    },
+    {
+        "location": "43.70682898,-72.2876686",
+        "null": "3",
+        "place": "Sudikoff 002",
+        "productivity": "2",
+        "resp_time": 1366602811
+    }
+]

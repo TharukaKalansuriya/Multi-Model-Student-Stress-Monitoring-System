@@ -1,0 +1,156 @@
+[
+    {
+        "location": "43.70237732,-72.28914013",
+        "null": "2",
+        "place": "robo",
+        "productivity": "2",
+        "resp_time": 1366339027
+    },
+    {
+        "location": "43.70460031,-72.29111515",
+        "null": "2",
+        "place": "dorm gile",
+        "productivity": "3",
+        "resp_time": 1366330566
+    },
+    {
+        "location": "43.7054293,-72.2897154",
+        "null": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1366417036
+    },
+    {
+        "location": "43.7054293,-72.2897154",
+        "null": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1366417017
+    },
+    {
+        "location": "Unknown",
+        "null": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1366487235
+    },
+    {
+        "location": "Unknown",
+        "null": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1366582247
+    },
+    {
+        "location": "Unknown",
+        "null": "4",
+        "place": "gile",
+        "productivity": "1",
+        "resp_time": 1366539383
+    },
+    {
+        "location": "Unknown",
+        "null": "2",
+        "place": "gile",
+        "productivity": "1",
+        "resp_time": 1366676743
+    },
+    {
+        "location": "Unknown",
+        "null": "2",
+        "place": "gile",
+        "productivity": "1",
+        "resp_time": 1366689944
+    },
+    {
+        "location": "43.70446701,-72.29096964",
+        "null": "1",
+        "place": "gile",
+        "productivity": "4",
+        "resp_time": 1366776133
+    },
+    {
+        "location": "43.70366438,-72.2901632",
+        "noise": "1",
+        "place": "dorm",
+        "productivity": "3",
+        "resp_time": 1367108640
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "gile",
+        "productivity": "1",
+        "resp_time": 1367276841
+    },
+    {
+        "location": "43.7060191,-72.28758328",
+        "noise": "2",
+        "place": "gilw",
+        "productivity": "1",
+        "resp_time": 1366934603
+    },
+    {
+        "location": "43.7044126,-72.29099969",
+        "noise": "4",
+        "place": "dorm",
+        "productivity": "3",
+        "resp_time": 1367359850
+    },
+    {
+        "location": "Unknown",
+        "noise": "1",
+        "place": "dorm",
+        "productivity": "4",
+        "resp_time": 1367210067
+    },
+    {
+        "location": "43.70441582,-72.29136839",
+        "noise": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1367712598
+    },
+    {
+        "location": "Unknown",
+        "noise": "2",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1368260026
+    },
+    {
+        "location": "43.70419436,-72.29111957",
+        "noise": "2",
+        "place": "dirt cowboy",
+        "productivity": "4",
+        "resp_time": 1368784405
+    },
+    {
+        "location": "43.70437147,-72.29092903",
+        "noise": "1",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1368335258
+    },
+    {
+        "location": "43.7047545,-72.28932815",
+        "noise": "2",
+        "place": "gile",
+        "productivity": "3",
+        "resp_time": 1368504137
+    },
+    {
+        "location": "43.70465377,-72.29113067",
+        "noise": "3",
+        "place": "gile",
+        "productivity": "3",
+        "resp_time": 1369250148
+    },
+    {
+        "location": "Unknown",
+        "noise": "4",
+        "place": "gile",
+        "productivity": "2",
+        "resp_time": 1369397220
+    }
+]

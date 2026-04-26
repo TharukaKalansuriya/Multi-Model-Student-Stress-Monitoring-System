@@ -1,0 +1,506 @@
+[
+    {
+        "null": "1",
+        "resp_time": 1364118517
+    },
+    {
+        "null": "5",
+        "resp_time": 1364122203
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122197
+    },
+    {
+        "null": "43.70418494,-72.28949738",
+        "resp_time": 1364122199
+    },
+    {
+        "null": "g",
+        "resp_time": 1364122200
+    },
+    {
+        "null": "2",
+        "resp_time": 1364605869
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70654748,-72.28919801",
+        "resp_time": 1365025253
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70574271,-72.28946233",
+        "resp_time": 1364855460
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70819533,-72.28464859",
+        "resp_time": 1364843455
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.70367648,-72.29094557",
+        "resp_time": 1365031848
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.7032657,-72.29045059",
+        "resp_time": 1364936375
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.7032657,-72.29045059",
+        "resp_time": 1364939852
+    },
+    {
+        "course_id": "cs69",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70348694,-72.29093353",
+        "resp_time": 1364955574
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70371584,-72.2909896",
+        "resp_time": 1365018344
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70584223,-72.29075364",
+        "resp_time": 1365108624
+    },
+    {
+        "course_id": "cs69",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70584223,-72.29075364",
+        "resp_time": 1365153953
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.7079626,-72.2845068",
+        "resp_time": 1365461644
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70665195,-72.28627345",
+        "resp_time": 1365194085
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70614862,-72.28934977",
+        "resp_time": 1365202344
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "5",
+        "hours": "6",
+        "location": "43.70614862,-72.28934977",
+        "resp_time": 1365198011
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70833514,-72.28446068",
+        "resp_time": 1365448353
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70826063,-72.28421526",
+        "resp_time": 1365461668
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70635829,-72.28923585",
+        "resp_time": 1366061839
+    },
+    {
+        "course_id": "cs69",
+        "due": "1",
+        "experience": "1",
+        "hours": "8",
+        "location": "43.70845191,-72.28419384",
+        "resp_time": 1365758855
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70826063,-72.28421526",
+        "resp_time": 1365548843
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70826063,-72.28421526",
+        "resp_time": 1365559676
+    },
+    {
+        "course_id": "cs69",
+        "due": "2",
+        "experience": "3",
+        "hours": "8",
+        "location": "43.70340811,-72.29061712",
+        "resp_time": 1365568428
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70827877,-72.28438588",
+        "resp_time": 1365621132
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "2",
+        "location": "43.70827877,-72.28438588",
+        "resp_time": 1365631748
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70827877,-72.28438588",
+        "resp_time": 1365634647
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "4",
+        "hours": "9",
+        "location": "43.71713165,-72.27145544",
+        "resp_time": 1366053147
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70845191,-72.28419384",
+        "resp_time": 1365720716
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.71906267,-72.27262809",
+        "resp_time": 1365795000
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.7062746,-72.28944936",
+        "resp_time": 1365803141
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70635749,-72.28923654",
+        "resp_time": 1366072980
+    },
+    {
+        "course_id": "cs69",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70285908,-72.29002745",
+        "resp_time": 1366174008
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70710027,-72.28737661",
+        "resp_time": 1366157793
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "5",
+        "location": "43.70710027,-72.28737661",
+        "resp_time": 1366157839
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "4",
+        "hours": "10",
+        "location": "43.70261834,-72.28972009",
+        "resp_time": 1366236371
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70285908,-72.29002745",
+        "resp_time": 1366225489
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366318695
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70300607,-72.29026873",
+        "resp_time": 1366409367
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70300607,-72.29026873",
+        "resp_time": 1366411867
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70300607,-72.29026873",
+        "resp_time": 1366402410
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70608389,-72.29104393",
+        "resp_time": 1366935190
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7031993,-72.2904444",
+        "resp_time": 1366666989
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "12",
+        "location": "43.7031993,-72.2904444",
+        "resp_time": 1366665190
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7031993,-72.2904444",
+        "resp_time": 1366671079
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70635966,-72.28846146",
+        "resp_time": 1366750429
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "5",
+        "hours": "1",
+        "location": "43.70635966,-72.28846146",
+        "resp_time": 1366754318
+    },
+    {
+        "course_id": "cs69",
+        "due": "1",
+        "experience": "1",
+        "hours": "7",
+        "location": "43.70608389,-72.29104393",
+        "resp_time": 1366949950
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70608389,-72.29104393",
+        "resp_time": 1367003166
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "12",
+        "location": "43.70894401,-72.28431547",
+        "resp_time": 1367262393
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.47216071,-71.99885894",
+        "resp_time": 1367364255
+    },
+    {
+        "course_id": "cs69",
+        "due": "2",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.47216071,-71.99885894",
+        "resp_time": 1367379729
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "4",
+        "location": "43.70211393,-72.28994529",
+        "resp_time": 1367444694
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.47216071,-71.99885894",
+        "resp_time": 1367435862
+    },
+    {
+        "course_id": "cs69",
+        "due": "2",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.70211393,-72.28994529",
+        "resp_time": 1367566719
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70633694,-72.29112078",
+        "resp_time": 1367643460
+    },
+    {
+        "course_id": "cs69",
+        "due": "1",
+        "experience": "3",
+        "hours": "6",
+        "location": "43.70651717,-72.2879345",
+        "resp_time": 1368155551
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.719082,-72.2724696",
+        "resp_time": 1368211853
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "4",
+        "hours": "8",
+        "location": "43.719082,-72.2724696",
+        "resp_time": 1368221865
+    },
+    {
+        "course_id": "math23",
+        "due": "1",
+        "experience": "4",
+        "hours": "6",
+        "location": "43.70633694,-72.29112078",
+        "resp_time": 1367643460
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "5",
+        "hours": "1",
+        "location": "43.7089232,-72.28415444",
+        "resp_time": 1368040450
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.7089232,-72.28415444",
+        "resp_time": 1368049435
+    },
+    {
+        "course_id": "math23",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70680906,-72.28749051",
+        "resp_time": 1369189149
+    }
+]

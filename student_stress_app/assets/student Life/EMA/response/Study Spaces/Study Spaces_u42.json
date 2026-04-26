@@ -1,0 +1,58 @@
+[
+    {
+        "location": "43.70679488,-72.28690211",
+        "null": "2",
+        "place": "Dana library ",
+        "productivity": "3",
+        "resp_time": 1366330069
+    },
+    {
+        "location": "43.70099178,-72.28157768",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "2",
+        "resp_time": 1366689624
+    },
+    {
+        "location": "43.67581451,-72.26991503",
+        "noise": "2",
+        "place": "sudi",
+        "productivity": "2",
+        "resp_time": 1367363176
+    },
+    {
+        "location": "43.65872062,-72.24871485",
+        "noise": "2",
+        "place": "home",
+        "productivity": "3",
+        "resp_time": 1367189759
+    },
+    {
+        "location": "43.70682003,-72.28641301",
+        "noise": "2",
+        "place": "sudi105",
+        "productivity": "2",
+        "resp_time": 1367534629
+    },
+    {
+        "location": "43.69336363,-72.27365248",
+        "noise": "2",
+        "place": "sudi",
+        "productivity": "2",
+        "resp_time": 1367798417
+    },
+    {
+        "location": "43.65817203,-72.25123965",
+        "noise": "2",
+        "place": "home",
+        "productivity": "2",
+        "resp_time": 1368474039
+    },
+    {
+        "location": "43.65817203,-72.25123965",
+        "noise": "2",
+        "place": "home",
+        "productivity": "2",
+        "resp_time": 1368474026
+    }
+]

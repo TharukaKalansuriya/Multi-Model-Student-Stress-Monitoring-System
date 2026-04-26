@@ -1,0 +1,86 @@
+[
+    {
+        "location": "43.7050225,-72.28939767",
+        "null": "3",
+        "place": "library",
+        "productivity": "3",
+        "resp_time": 1366329687
+    },
+    {
+        "location": "43.70539179,-72.28841197",
+        "null": "2",
+        "place": "libs",
+        "productivity": "3",
+        "resp_time": 1366521628
+    },
+    {
+        "location": "43.70665284,-72.28802865",
+        "null": "1",
+        "place": "sudi",
+        "productivity": "3",
+        "resp_time": 1366431492
+    },
+    {
+        "location": "43.70414567,-72.2861611",
+        "null": "1",
+        "place": "libs",
+        "productivity": "3",
+        "resp_time": 1366595714
+    },
+    {
+        "location": "43.70324408,-72.28961597",
+        "null": "4",
+        "place": "libs",
+        "productivity": "2",
+        "resp_time": 1366777642
+    },
+    {
+        "location": "43.70324408,-72.28961597",
+        "null": "1",
+        "place": "room",
+        "productivity": "1",
+        "resp_time": 1366689756
+    },
+    {
+        "location": "43.70330372,-72.2898598",
+        "noise": "1",
+        "place": "lib",
+        "productivity": "2",
+        "resp_time": 1366936237
+    },
+    {
+        "location": "43.70151131,-72.28813703",
+        "noise": "1",
+        "place": "lub",
+        "productivity": "1",
+        "resp_time": 1367186388
+    },
+    {
+        "location": "43.70239663,-72.28686701",
+        "noise": "1",
+        "place": "",
+        "productivity": "1",
+        "resp_time": 1367716917
+    },
+    {
+        "location": "43.70200305,-72.28757046",
+        "noise": "1",
+        "place": "liba",
+        "productivity": "1",
+        "resp_time": 1368419439
+    },
+    {
+        "location": "43.70431466,-72.28543542",
+        "noise": "1",
+        "place": "",
+        "productivity": "1",
+        "resp_time": 1367627217
+    },
+    {
+        "location": "43.70260777,-72.2878145",
+        "noise": "3",
+        "place": "sudi",
+        "productivity": "2",
+        "resp_time": 1368246128
+    }
+]

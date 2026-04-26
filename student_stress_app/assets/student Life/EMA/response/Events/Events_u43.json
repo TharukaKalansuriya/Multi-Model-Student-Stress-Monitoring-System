@@ -1,0 +1,66 @@
+[
+    {
+        "location": "43.70547508,-72.29140592",
+        "negative": "5",
+        "nevent": "going home to Maine ",
+        "pevent": "plans for weekend",
+        "positive": "4",
+        "resp_time": 1366392115
+    },
+    {
+        "location": "44.23697212,-69.80804789",
+        "negative": "2",
+        "nevent": "skyping with gf",
+        "pevent": "skyping with gf",
+        "positive": "6",
+        "resp_time": 1366597114
+    },
+    {
+        "location": "Unknown",
+        "negative": "6",
+        "nevent": "being home",
+        "pevent": "being home",
+        "positive": "6",
+        "resp_time": 1366597119
+    },
+    {
+        "location": "Unknown",
+        "negative": "4",
+        "nevent": "getting home",
+        "pevent": "going home",
+        "positive": "6",
+        "resp_time": 1366597116
+    },
+    {
+        "location": "43.70556144,-72.29141676",
+        "negative": "6",
+        "nevent": "seeing gf",
+        "pevent": "seeing gf",
+        "positive": "6",
+        "resp_time": 1366678556
+    },
+    {
+        "location": "43.70555076,-72.29153845",
+        "negative": "6",
+        "nevent": "classes canceled",
+        "pevent": "classes canceled",
+        "positive": "4",
+        "resp_time": 1366848747
+    },
+    {
+        "location": "43.70540816,-72.29195287",
+        "negative": "6",
+        "nevent": "no mini golf",
+        "pevent": "no classes",
+        "positive": "5",
+        "resp_time": 1366956960
+    },
+    {
+        "location": "43.70551012,-72.29147375",
+        "negative": "5",
+        "nevent": "lab assignment not working properly",
+        "pevent": "talking with gf",
+        "positive": "5",
+        "resp_time": 1367036053
+    }
+]

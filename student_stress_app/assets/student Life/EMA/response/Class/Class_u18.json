@@ -1,0 +1,222 @@
+[
+    {
+        "null": "tf",
+        "resp_time": 1364121775
+    },
+    {
+        "null": "43.70634639,-72.28704811",
+        "resp_time": 1364121771
+    },
+    {
+        "null": "5",
+        "resp_time": 1364121840
+    },
+    {
+        "null": "43.70633795,-72.28708513",
+        "resp_time": 1364121773
+    },
+    {
+        "null": "43.70633795,-72.28708513",
+        "resp_time": 1364121776
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70738006,-72.28908542",
+        "resp_time": 1364602788
+    },
+    {
+        "course_id": "Tuck 3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70727405,-72.28860059",
+        "resp_time": 1364359743
+    },
+    {
+        "course_id": "tuck 3",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70736033,-72.2891458",
+        "resp_time": 1364515882
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70750471,-72.28915323",
+        "resp_time": 1364432313
+    },
+    {
+        "course_id": "Chinese 33",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70741795,-72.28914941",
+        "resp_time": 1364630954
+    },
+    {
+        "course_id": "cs89",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70741061,-72.28914251",
+        "resp_time": 1364631019
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70664761,-72.2878935",
+        "resp_time": 1365027530
+    },
+    {
+        "course_id": "chin33",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70605791,-72.28694024",
+        "resp_time": 1365185590
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70727926,-72.28900758",
+        "resp_time": 1365468743
+    },
+    {
+        "course_id": "chin33",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70730854,-72.287476",
+        "resp_time": 1365710871
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70146647,-72.28826534",
+        "resp_time": 1365650347
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70730854,-72.287476",
+        "resp_time": 1365710882
+    },
+    {
+        "course_id": "tuck3",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70740011,-72.28899929",
+        "resp_time": 1365551697
+    },
+    {
+        "course_id": "chin33",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70743215,-72.28912504",
+        "resp_time": 1365551718
+    },
+    {
+        "course_id": "tuck3",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70738991,-72.28912614",
+        "resp_time": 1365554888
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70146647,-72.28826534",
+        "resp_time": 1365650321
+    },
+    {
+        "course_id": "tuck 3",
+        "due": "2",
+        "experience": "4",
+        "hours": "2",
+        "location": "43.70730854,-72.287476",
+        "resp_time": 1365726464
+    },
+    {
+        "course_id": "chin33",
+        "due": "1",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70724964,-72.28892471",
+        "resp_time": 1366424669
+    },
+    {
+        "course_id": "cs89",
+        "due": "1",
+        "experience": "3",
+        "hours": "10",
+        "location": "43.70728105,-72.2890411",
+        "resp_time": 1365832213
+    },
+    {
+        "course_id": "chin 33",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70264346,-72.28707",
+        "resp_time": 1366341899
+    },
+    {
+        "course_id": "tuck 3",
+        "due": "1",
+        "experience": "4",
+        "hours": "4",
+        "location": "43.70264346,-72.28707",
+        "resp_time": 1366341900
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70264346,-72.28707",
+        "resp_time": 1366341900
+    },
+    {
+        "course_id": "cs89",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70264346,-72.28707",
+        "resp_time": 1366424581
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70264346,-72.28707",
+        "resp_time": 1366424560
+    },
+    {
+        "course_id": "chin33",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70686672,-72.28679184",
+        "resp_time": 1366774462
+    }
+]

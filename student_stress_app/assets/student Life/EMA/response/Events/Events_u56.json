@@ -1,0 +1,42 @@
+[
+    {
+        "location": "43.71653801,-72.30902725",
+        "negative": "5",
+        "nevent": "if you meant negative event, finding out I did something wrong at work",
+        "pevent": "drinks with friends",
+        "positive": "6",
+        "resp_time": 1366369735
+    },
+    {
+        "location": "43.71672365,-72.30903137",
+        "negative": "4",
+        "nevent": "relationship talk",
+        "pevent": "sex",
+        "positive": "6",
+        "resp_time": 1366851227
+    },
+    {
+        "location": "43.70978582,-72.3084436",
+        "negative": "1",
+        "nevent": "na",
+        "pevent": "dinner with friend",
+        "positive": "6",
+        "resp_time": 1366680341
+    },
+    {
+        "location": "43.01457325,-72.34845621",
+        "negative": "7",
+        "nevent": "got my winter heating bill",
+        "pevent": "",
+        "positive": "2",
+        "resp_time": 1367039438
+    },
+    {
+        "location": "43.71682074,-72.30917075",
+        "negative": "3",
+        "nevent": "not finishing assignment",
+        "pevent": "frisbee",
+        "positive": "5",
+        "resp_time": 1367297795
+    }
+]

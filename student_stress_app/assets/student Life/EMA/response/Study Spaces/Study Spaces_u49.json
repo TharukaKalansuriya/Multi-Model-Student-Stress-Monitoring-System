@@ -1,0 +1,107 @@
+[
+    {
+        "location": "43.7071514734381,-72.29077557345198",
+        "null": "2",
+        "place": "Choates My Dorm Room",
+        "productivity": "3",
+        "resp_time": 1366590269
+    },
+    {
+        "location": "43.70328375766367,-72.29034840992854",
+        "null": "1",
+        "place": "Sudikoff 006",
+        "productivity": "4",
+        "resp_time": 1366704383
+    },
+    {
+        "location": "43.70632507702557,-72.28852254781113",
+        "noise": "1",
+        "place": "Kemeney ",
+        "productivity": "4",
+        "resp_time": 1366939120
+    },
+    {
+        "location": "Unknown",
+        "noise": "2",
+        "place": "novack 73",
+        "productivity": "3",
+        "resp_time": 1367446131
+    },
+    {
+        "location": "43.70713433287341,-72.29021107759506",
+        "noise": "2",
+        "place": " my dorm",
+        "productivity": "3",
+        "resp_time": 1367701377
+    },
+    {
+        "location": "43.706975096465726,-72.2906530628659",
+        "noise": "1",
+        "place": "my room",
+        "productivity": "4",
+        "resp_time": 1368504230
+    },
+    {
+        "location": "43.70578575320415,-72.28875349174373",
+        "noise": "3",
+        "place": "novack",
+        "productivity": "3",
+        "resp_time": 1368216631
+    },
+    {
+        "location": "43.707187586279126,-72.29064016158995",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "4",
+        "resp_time": 1367712915
+    },
+    {
+        "location": "43.707107369573706,-72.29070455586755",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1368172654
+    },
+    {
+        "location": "43.70377306642512,-72.28776140116048",
+        "noise": "2",
+        "place": "berry near academic services ",
+        "productivity": "4",
+        "resp_time": 1368472150
+    },
+    {
+        "location": "43.707129377140696,-72.29066827277285",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "2",
+        "resp_time": 1368417623
+    },
+    {
+        "location": "43.7071803391446,-72.29073719551904",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "4",
+        "resp_time": 1368858798
+    },
+    {
+        "location": "43.70711360788952,-72.29041204811223",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "4",
+        "resp_time": 1369382122
+    },
+    {
+        "location": "43.705398879706564,-72.29522355779832",
+        "noise": "3",
+        "place": "Murdough 334",
+        "productivity": "4",
+        "resp_time": 1369616379
+    },
+    {
+        "location": "43.707175423533876,-72.29072460503018",
+        "noise": "3",
+        "place": "my room",
+        "productivity": "2",
+        "resp_time": 1369986781
+    }
+]

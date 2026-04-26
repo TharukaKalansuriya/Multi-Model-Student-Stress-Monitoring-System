@@ -1,0 +1,42 @@
+[
+    {
+        "location": "43.65850087,-72.24835954",
+        "negative": "2",
+        "nevent": "quarrel with friends",
+        "pevent": "play games ",
+        "positive": "6",
+        "resp_time": 1366394924
+    },
+    {
+        "location": "43.7016352,-72.28942685",
+        "negative": "2",
+        "nevent": "quarrel with friend",
+        "pevent": "do hw ",
+        "positive": "6",
+        "resp_time": 1366764040
+    },
+    {
+        "location": "43.70099178,-72.28157768",
+        "negative": "3",
+        "nevent": "bbs",
+        "pevent": "study",
+        "positive": "6",
+        "resp_time": 1366676304
+    },
+    {
+        "location": "43.66990215,-72.26195511",
+        "negative": "1",
+        "nevent": "none",
+        "pevent": "playing",
+        "positive": "6",
+        "resp_time": 1368474041
+    },
+    {
+        "location": "43.66990215,-72.26195511",
+        "negative": "1",
+        "nevent": "none",
+        "pevent": "playing",
+        "positive": "6",
+        "resp_time": 1368474028
+    }
+]

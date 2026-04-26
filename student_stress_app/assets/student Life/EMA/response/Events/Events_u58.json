@@ -1,0 +1,154 @@
+[
+    {
+        "location": "43.70608079,-72.2835322",
+        "negative": "7",
+        "nevent": "chat",
+        "pevent": "chat",
+        "positive": "5",
+        "resp_time": 1366478524
+    },
+    {
+        "location": "43.7061593,-72.2835932",
+        "negative": "7",
+        "nevent": "",
+        "pevent": "",
+        "positive": "4",
+        "resp_time": 1366568955
+    },
+    {
+        "location": "43.70627659,-72.28339373",
+        "negative": "7",
+        "nevent": "driving ",
+        "pevent": "dating ",
+        "positive": "1",
+        "resp_time": 1366595564
+    },
+    {
+        "location": "43.70626759,-72.28322431",
+        "negative": "7",
+        "nevent": "meeting ",
+        "pevent": "gaming ",
+        "positive": "5",
+        "resp_time": 1366684730
+    },
+    {
+        "location": "43.7057195,-72.28324992",
+        "negative": "7",
+        "nevent": "coding ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1366959556
+    },
+    {
+        "location": "43.70574898,-72.2851523",
+        "negative": "4",
+        "nevent": "meeting ",
+        "pevent": "chatting ",
+        "positive": "3",
+        "resp_time": 1367127617
+    },
+    {
+        "location": "43.70615735,-72.28314889",
+        "negative": "7",
+        "nevent": "quarreling ",
+        "pevent": "chatting ",
+        "positive": "4",
+        "resp_time": 1367398011
+    },
+    {
+        "location": "43.70595953,-72.28272157",
+        "negative": "7",
+        "nevent": "coding ",
+        "pevent": "dating ",
+        "positive": "6",
+        "resp_time": 1367481954
+    },
+    {
+        "location": "43.70574671,-72.28500165",
+        "negative": "4",
+        "nevent": "meeting ",
+        "pevent": "meeting ",
+        "positive": "6",
+        "resp_time": 1367648453
+    },
+    {
+        "location": "43.70618602,-72.28339878",
+        "negative": "7",
+        "nevent": "coding ",
+        "pevent": "eating ",
+        "positive": "1",
+        "resp_time": 1368237668
+    },
+    {
+        "location": "43.70574671,-72.28500165",
+        "negative": "4",
+        "nevent": "meeting ",
+        "pevent": "meeting ",
+        "positive": "6",
+        "resp_time": 1367648552
+    },
+    {
+        "location": "43.70647378,-72.28294033",
+        "negative": "1",
+        "nevent": "coding ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1368416720
+    },
+    {
+        "location": "43.70622039,-72.2832827",
+        "negative": "7",
+        "nevent": "helping code",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1369163408
+    },
+    {
+        "location": "43.70600359,-72.28320712",
+        "negative": "7",
+        "nevent": "meeting ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1369249232
+    },
+    {
+        "location": "43.70622819,-72.2833321",
+        "negative": "7",
+        "nevent": "meeting ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1369779357
+    },
+    {
+        "location": "43.70534904,-72.2834498",
+        "negative": "7",
+        "nevent": "coding ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1370057441
+    },
+    {
+        "location": "43.70603361,-72.28349513",
+        "negative": "7",
+        "nevent": "coding ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1369698896
+    },
+    {
+        "location": "43.70627797,-72.28329051",
+        "negative": "7",
+        "nevent": "presentation ",
+        "pevent": "dating ",
+        "positive": "7",
+        "resp_time": 1369955886
+    },
+    {
+        "location": "43.7064518,-72.28345807",
+        "negative": "7",
+        "nevent": "gaming ",
+        "pevent": "bowling ",
+        "positive": "5",
+        "resp_time": 1370127844
+    }
+]

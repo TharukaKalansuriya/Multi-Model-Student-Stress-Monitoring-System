@@ -1,0 +1,65 @@
+[
+    {
+        "location": "43.70687938,-72.28887139",
+        "null": "2",
+        "place": "Alpha Theta SLR",
+        "productivity": "1",
+        "resp_time": 1366330738
+    },
+    {
+        "location": "43.70703015,-72.28873861",
+        "null": "2",
+        "place": "Alpha Theta Porch",
+        "productivity": "3",
+        "resp_time": 1366413023
+    },
+    {
+        "location": "43.70699159,-72.28872268",
+        "null": "1",
+        "place": "3rd floor berry",
+        "productivity": "3",
+        "resp_time": 1366594243
+    },
+    {
+        "location": "43.70700463,-72.2889772",
+        "null": "2",
+        "place": "Alpha Theta SLR",
+        "productivity": "3",
+        "resp_time": 1366779299
+    },
+    {
+        "location": "43.70716201,-72.28811592",
+        "noise": "1",
+        "place": "Sudikoff 148",
+        "productivity": "3",
+        "resp_time": 1367278353
+    },
+    {
+        "location": "43.70719162,-72.28906195",
+        "noise": "2",
+        "place": "Sudikoff 148",
+        "productivity": "3",
+        "resp_time": 1367189705
+    },
+    {
+        "location": "43.70690514,-72.28667156",
+        "noise": "1",
+        "place": "sudikoff 214",
+        "productivity": "3",
+        "resp_time": 1367359846
+    },
+    {
+        "location": "43.70661129,-72.28851578",
+        "noise": "1",
+        "place": "outside the lsc",
+        "productivity": "4",
+        "resp_time": 1367532575
+    },
+    {
+        "location": "43.70688744,-72.28729664",
+        "noise": "1",
+        "place": "sudikoff 003",
+        "productivity": "3",
+        "resp_time": 1368244884
+    }
+]

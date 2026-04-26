@@ -1,0 +1,130 @@
+[
+    {
+        "null": "1",
+        "resp_time": 1364121910
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121910
+    },
+    {
+        "null": "7",
+        "resp_time": 1364118415
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121912
+    },
+    {
+        "null": "vvcc",
+        "resp_time": 1364121925
+    },
+    {
+        "null": "43.70472914,-72.28856495",
+        "resp_time": 1364121908
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70675529,-72.28728531",
+        "resp_time": 1365026961
+    },
+    {
+        "course_id": "CS50",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.7044068,-72.28971584",
+        "resp_time": 1364853026
+    },
+    {
+        "course_id": "ECON36",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70509059,-72.29282176",
+        "resp_time": 1365012102
+    },
+    {
+        "course_id": "CS65",
+        "due": "1",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.7044068,-72.28971584",
+        "resp_time": 1364847596
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "2",
+        "hours": "6",
+        "location": "43.70509059,-72.29282176",
+        "resp_time": 1365018433
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70600821,-72.28803551",
+        "resp_time": 1365199288
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70744948,-72.28545819",
+        "resp_time": 1365187667
+    },
+    {
+        "course_id": "ECON36",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70744948,-72.28545819",
+        "resp_time": 1365187648
+    },
+    {
+        "course_id": "CS65",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.7038898,-72.287724",
+        "resp_time": 1365465688
+    },
+    {
+        "course_id": "ECON37",
+        "due": "2",
+        "experience": "2",
+        "hours": "4",
+        "location": "43.7038898,-72.287724",
+        "resp_time": 1365465688
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "4",
+        "hours": "2",
+        "location": "43.70450188,-72.2971835",
+        "resp_time": 1365798397
+    },
+    {
+        "course_id": "ECON36",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70450188,-72.2971835",
+        "resp_time": 1365798411
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "4",
+        "hours": "12",
+        "location": "43.70586884,-72.28784833",
+        "resp_time": 1366243290
+    }
+]

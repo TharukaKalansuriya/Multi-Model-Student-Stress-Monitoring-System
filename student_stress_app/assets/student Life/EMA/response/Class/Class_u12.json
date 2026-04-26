@@ -1,0 +1,94 @@
+[
+    {
+        "null": "43.70636736,-72.28702107",
+        "resp_time": 1364118658
+    },
+    {
+        "null": "gvv",
+        "resp_time": 1364122191
+    },
+    {
+        "null": "2",
+        "resp_time": 1364122189
+    },
+    {
+        "null": "gvc",
+        "resp_time": 1364122187
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122186
+    },
+    {
+        "course_id": "tuck3",
+        "due": "2",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.63745411,-72.24846941",
+        "resp_time": 1365003202
+    },
+    {
+        "course_id": "GH\n",
+        "due": "1",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70618903,-72.28722948",
+        "resp_time": 1364359282
+    },
+    {
+        "course_id": "tuck 003",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.63731604,-72.24852742",
+        "resp_time": 1364537813
+    },
+    {
+        "course_id": "cs50",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70640895,-72.2882317",
+        "resp_time": 1364420335
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.637604,-72.24834382",
+        "resp_time": 1364430343
+    },
+    {
+        "course_id": "cs66",
+        "due": "2",
+        "experience": "3",
+        "hours": "7",
+        "location": "43.68470585,-72.26924658",
+        "resp_time": 1364516556
+    },
+    {
+        "course_id": "cs89",
+        "due": "2",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70977927,-72.28303993",
+        "resp_time": 1364588764
+    },
+    {
+        "course_id": "cs50",
+        "due": "2",
+        "experience": "3",
+        "hours": "7",
+        "location": "42.63750503,-71.18233284",
+        "resp_time": 1365219636
+    },
+    {
+        "course_id": "tuck 3",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.63747443,-72.24856045",
+        "resp_time": 1366157441
+    }
+]

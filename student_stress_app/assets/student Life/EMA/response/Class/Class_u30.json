@@ -1,0 +1,214 @@
+[
+    {
+        "null": "4",
+        "resp_time": 1364118623
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121465
+    },
+    {
+        "null": "43.70478674,-72.28850478",
+        "resp_time": 1364121552
+    },
+    {
+        "null": "7",
+        "resp_time": 1364121462
+    },
+    {
+        "null": "7",
+        "resp_time": 1364121464
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70240618,-72.28732915",
+        "resp_time": 1364583786
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70240618,-72.28732915",
+        "resp_time": 1364593581
+    },
+    {
+        "course_id": "Music 3",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70324769,-72.29030293",
+        "resp_time": 1365015405
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "7",
+        "location": "43.70216667,-72.2862385",
+        "resp_time": 1365015403
+    },
+    {
+        "course_id": "CS 65",
+        "due": "1",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.70216667,-72.2862385",
+        "resp_time": 1365015403
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70294473,-72.28772261",
+        "resp_time": 1365285713
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70294473,-72.28772261",
+        "resp_time": 1365285720
+    },
+    {
+        "course_id": "Music 3",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70294473,-72.28772261",
+        "resp_time": 1365285720
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70294473,-72.28772261",
+        "resp_time": 1365285713
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.70294473,-72.28772261",
+        "resp_time": 1365285720
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70260784,-72.28705135",
+        "resp_time": 1365566409
+    },
+    {
+        "course_id": "Music 3",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70260784,-72.28705135",
+        "resp_time": 1365566409
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70377413,-72.29073246",
+        "resp_time": 1365675907
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70377413,-72.29073246",
+        "resp_time": 1365675907
+    },
+    {
+        "course_id": "Music 3",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70301736,-72.28773771",
+        "resp_time": 1366159664
+    },
+    {
+        "course_id": "Music 3",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70232979,-72.28706023",
+        "resp_time": 1365725279
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70232979,-72.28706023",
+        "resp_time": 1365725254
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70301736,-72.28773771",
+        "resp_time": 1366159591
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70267956,-72.28791803",
+        "resp_time": 1366246528
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.7024116,-72.28734492",
+        "resp_time": 1366246503
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "41.23064284,-73.0728831",
+        "resp_time": 1366710464
+    },
+    {
+        "course_id": "CS 50",
+        "due": "2",
+        "experience": "3",
+        "hours": "10",
+        "location": "41.23064284,-73.0728831",
+        "resp_time": 1366710521
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.7024991,-72.28938342",
+        "resp_time": 1367562616
+    },
+    {
+        "course_id": "Music 3",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.7024991,-72.28938342",
+        "resp_time": 1367562641
+    }
+]

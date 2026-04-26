@@ -1,0 +1,32 @@
+[
+    {
+        "duration": "2",
+        "enjoy": "2",
+        "location": "43.70414897,-72.29048617",
+        "resp_time": 1366866265
+    },
+    {
+        "duration": "1",
+        "enjoy": "1",
+        "location": "43.70394194,-72.29039284",
+        "resp_time": 1368565203
+    },
+    {
+        "duration": "1",
+        "enjoy": "2",
+        "location": "43.70433388,-72.29020625",
+        "resp_time": 1368133941
+    },
+    {
+        "duration": "1",
+        "enjoy": "1",
+        "location": "Unknown",
+        "resp_time": 1368220719
+    },
+    {
+        "duration": "1",
+        "enjoy": "2",
+        "location": "Unknown",
+        "resp_time": 1368398571
+    }
+]

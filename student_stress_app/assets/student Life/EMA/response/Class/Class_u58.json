@@ -1,0 +1,178 @@
+[
+    {
+        "course_id": "cs19p",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70625659,-72.28331991",
+        "resp_time": 1364357490
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70596359,-72.28323862",
+        "resp_time": 1364601648
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70615493,-72.28340848",
+        "resp_time": 1365026736
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70610853,-72.28322264",
+        "resp_time": 1364867837
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70611302,-72.28322474",
+        "resp_time": 1365114706
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70628761,-72.28362471",
+        "resp_time": 1365201015
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70614426,-72.28328189",
+        "resp_time": 1365467433
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.69957825,-72.289953",
+        "resp_time": 1365639228
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70624531,-72.28357164",
+        "resp_time": 1365812016
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70839358,-72.2822233",
+        "resp_time": 1366077595
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.63183255,-72.21036324",
+        "resp_time": 1365725273
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70645524,-72.28313281",
+        "resp_time": 1366258386
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "Unknown",
+        "resp_time": 1366307389
+    },
+    {
+        "course_id": "cs 65",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70616591,-72.28331609",
+        "resp_time": 1366400292
+    },
+    {
+        "course_id": "cs 65",
+        "due": "1",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.70616591,-72.28331609",
+        "resp_time": 1366419683
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70607199,-72.28334176",
+        "resp_time": 1367008545
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "4",
+        "hours": "4",
+        "location": "43.70650819,-72.28202974",
+        "resp_time": 1366659672
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70623696,-72.28307342",
+        "resp_time": 1366697051
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "5",
+        "hours": "1",
+        "location": "43.70593948,-72.28355406",
+        "resp_time": 1366844417
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "4",
+        "hours": "5",
+        "location": "43.70615356,-72.28330165",
+        "resp_time": 1366959813
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70617687,-72.2833926",
+        "resp_time": 1368237619
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.70618048,-72.28338783",
+        "resp_time": 1369727082
+    }
+]

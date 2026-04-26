@@ -1,0 +1,382 @@
+[
+    {
+        "null": "ffgg",
+        "resp_time": 1364118482
+    },
+    {
+        "null": "2",
+        "resp_time": 1364123063
+    },
+    {
+        "null": "1",
+        "resp_time": 1364123065
+    },
+    {
+        "null": "yccgc",
+        "resp_time": 1364123069
+    },
+    {
+        "null": "1",
+        "resp_time": 1364123067
+    },
+    {
+        "course_id": "rel 038",
+        "due": "1",
+        "experience": "2",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1364354109
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1364354128
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70582719,-72.28937924",
+        "resp_time": 1364505545
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70227295,-72.28989198",
+        "resp_time": 1364418506
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70227295,-72.28989198",
+        "resp_time": 1364418493
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70582719,-72.28937924",
+        "resp_time": 1364515796
+    },
+    {
+        "course_id": "cs89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70350954,-72.28608081",
+        "resp_time": 1364591105
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70350954,-72.28608081",
+        "resp_time": 1364591097
+    },
+    {
+        "course_id": "cs89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70644629,-72.28641042",
+        "resp_time": 1365020455
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70237031,-72.28787598",
+        "resp_time": 1364956272
+    },
+    {
+        "course_id": "no class today",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70350954,-72.28608081",
+        "resp_time": 1364688418
+    },
+    {
+        "course_id": "no class",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70316589,-72.2862713",
+        "resp_time": 1364774709
+    },
+    {
+        "course_id": "cs65 section",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70237031,-72.28787598",
+        "resp_time": 1364959564
+    },
+    {
+        "course_id": "cs 50 ta",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.7029938,-72.28634884",
+        "resp_time": 1364940789
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70516598,-72.29089148",
+        "resp_time": 1364848162
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70538133,-72.29099059",
+        "resp_time": 1364848181
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70644629,-72.28641042",
+        "resp_time": 1365020445
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70342734,-72.28638739",
+        "resp_time": 1365127907
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70410077,-72.28719868",
+        "resp_time": 1365212013
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70410077,-72.28719868",
+        "resp_time": 1365212028
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70364811,-72.28649081",
+        "resp_time": 1365500126
+    },
+    {
+        "course_id": "cs 65",
+        "due": "1",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70364811,-72.28649081",
+        "resp_time": 1365500111
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70370174,-72.28680811",
+        "resp_time": 1365621357
+    },
+    {
+        "course_id": "chin 62",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70731779,-72.2868045",
+        "resp_time": 1365590006
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70370174,-72.28680811",
+        "resp_time": 1365651461
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70370174,-72.28680811",
+        "resp_time": 1365651462
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70314121,-72.28659035",
+        "resp_time": 1365733201
+    },
+    {
+        "course_id": "cs 89",
+        "due": "1",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.70385469,-72.28643647",
+        "resp_time": 1365818208
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70385469,-72.28643647",
+        "resp_time": 1365818197
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70396504,-72.28927469",
+        "resp_time": 1366085547
+    },
+    {
+        "course_id": "chin 62",
+        "due": "1",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70341363,-72.2866024",
+        "resp_time": 1366163763
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.70430223,-72.29046297",
+        "resp_time": 1366265132
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70430223,-72.29046297",
+        "resp_time": 1366265121
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70566291,-72.2881436",
+        "resp_time": 1366337083
+    },
+    {
+        "course_id": "chin 62",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70566291,-72.2881436",
+        "resp_time": 1366337091
+    },
+    {
+        "course_id": "chin 062",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70277439,-72.28880163",
+        "resp_time": 1366960476
+    },
+    {
+        "course_id": "cs 89",
+        "due": "1",
+        "experience": "1",
+        "hours": "12",
+        "location": "43.7052687,-72.28811786",
+        "resp_time": 1366698529
+    },
+    {
+        "course_id": "cs 65",
+        "due": "1",
+        "experience": "3",
+        "hours": "12",
+        "location": "43.7052687,-72.28811786",
+        "resp_time": 1366698514
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70295661,-72.28995533",
+        "resp_time": 1367022561
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70295661,-72.28995533",
+        "resp_time": 1367022576
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70708811,-72.28767562",
+        "resp_time": 1367445434
+    },
+    {
+        "course_id": "chin 62",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70708811,-72.28767562",
+        "resp_time": 1367399773
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7049437,-72.28880281",
+        "resp_time": 1367898671
+    },
+    {
+        "course_id": "cs 89",
+        "due": "2",
+        "experience": "5",
+        "hours": "1",
+        "location": "43.7037094,-72.28660102",
+        "resp_time": 1367745552
+    },
+    {
+        "course_id": "cs 89",
+        "due": "1",
+        "experience": "5",
+        "hours": "12",
+        "location": "43.70447785,-72.29155849",
+        "resp_time": 1369316318
+    }
+]

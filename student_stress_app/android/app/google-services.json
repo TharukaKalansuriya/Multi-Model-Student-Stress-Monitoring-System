@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969548033",
+    "project_id": "student-stress-app",
+    "storage_bucket": "student-stress-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969548033:android:4cbbb153cc96ba48587b00",
+        "android_client_info": {
+          "package_name": "com.student_stress_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrrfNGvYh7bu7UGD_Aivm9EY-sF7Whhzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

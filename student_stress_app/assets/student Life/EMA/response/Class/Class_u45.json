@@ -1,0 +1,70 @@
+[
+    {
+        "null": "gcc",
+        "resp_time": 1364118509
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122273
+    },
+    {
+        "null": "43.70526969,-72.28873061",
+        "resp_time": 1364122270
+    },
+    {
+        "null": "tfx",
+        "resp_time": 1364122274
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122271
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70797014,-72.28385447",
+        "resp_time": 1365036656
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "2",
+        "hours": "5",
+        "location": "43.70714984,-72.2865919",
+        "resp_time": 1364899372
+    },
+    {
+        "course_id": "cs77",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70526192,-72.28667636",
+        "resp_time": 1364977330
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70804291,-72.28498053",
+        "resp_time": 1365734021
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70788803,-72.28458844",
+        "resp_time": 1365641355
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70804117,-72.28498155",
+        "resp_time": 1365811938
+    }
+]

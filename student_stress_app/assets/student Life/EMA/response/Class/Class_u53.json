@@ -1,0 +1,158 @@
+[
+    {
+        "null": "Unknown",
+        "resp_time": 1364120242
+    },
+    {
+        "null": "2",
+        "resp_time": 1364120980
+    },
+    {
+        "null": "1",
+        "resp_time": 1364119509
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121815
+    },
+    {
+        "null": "Unknown",
+        "resp_time": 1364118794
+    },
+    {
+        "course_id": "cs189 photo forensics",
+        "due": "2",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70789343,-72.28376628",
+        "resp_time": 1364592760
+    },
+    {
+        "course_id": "cs165",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70549989,-72.28295873",
+        "resp_time": 1364515351
+    },
+    {
+        "course_id": "cs165",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70560193,-72.28316177",
+        "resp_time": 1364608471
+    },
+    {
+        "course_id": "no class today",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1364942629
+    },
+    {
+        "course_id": "cs165",
+        "due": "2",
+        "experience": "3",
+        "hours": "11",
+        "location": "43.70576878,-72.28345137",
+        "resp_time": 1365119379
+    },
+    {
+        "course_id": "cs166",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70652295,-72.28353758",
+        "resp_time": 1365202758
+    },
+    {
+        "course_id": "cs189",
+        "due": "2",
+        "experience": "3",
+        "hours": "6",
+        "location": "43.70652295,-72.28353758",
+        "resp_time": 1365202795
+    },
+    {
+        "course_id": "cs 165",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70559102,-72.283134",
+        "resp_time": 1365498404
+    },
+    {
+        "course_id": "cs 189",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366249942
+    },
+    {
+        "course_id": "no class today",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70654535,-72.28726046",
+        "resp_time": 1365572529
+    },
+    {
+        "course_id": "cs189",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.7059594,-72.28323398",
+        "resp_time": 1365683206
+    },
+    {
+        "course_id": "cs 189",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70369939,-72.29013585",
+        "resp_time": 1366074924
+    },
+    {
+        "course_id": "cs189",
+        "due": "2",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.69337144,-72.27322384",
+        "resp_time": 1366585726
+    },
+    {
+        "course_id": "no class today ",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.01160902,-71.43617088",
+        "resp_time": 1366585728
+    },
+    {
+        "course_id": "no class today",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70728698,-72.28382947",
+        "resp_time": 1366761640
+    },
+    {
+        "course_id": "class canceled",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70574235,-72.28345072",
+        "resp_time": 1366846171
+    },
+    {
+        "course_id": "cs189",
+        "due": "2",
+        "experience": "3",
+        "hours": "6",
+        "location": "43.70752387,-72.28352353",
+        "resp_time": 1369266799
+    }
+]

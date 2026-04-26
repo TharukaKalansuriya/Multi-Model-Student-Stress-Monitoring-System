@@ -1,0 +1,142 @@
+[
+    {
+        "location": "43.70616591,-72.28331609",
+        "null": "1",
+        "place": "room ",
+        "productivity": "3",
+        "resp_time": 1366414592
+    },
+    {
+        "location": "43.70612801,-72.28333189",
+        "null": "1",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1366400091
+    },
+    {
+        "location": "43.70614038,-72.28347477",
+        "null": "1",
+        "place": "room ",
+        "productivity": "3",
+        "resp_time": 1366518825
+    },
+    {
+        "location": "43.70641949,-72.28376581",
+        "null": "3",
+        "place": "laundry ",
+        "productivity": "1",
+        "resp_time": 1366595464
+    },
+    {
+        "location": "43.70623472,-72.28313048",
+        "null": "1",
+        "place": "room ",
+        "productivity": "4",
+        "resp_time": 1366697113
+    },
+    {
+        "location": "43.70626705,-72.28322324",
+        "null": "1",
+        "place": "room ",
+        "productivity": "4",
+        "resp_time": 1366689613
+    },
+    {
+        "location": "43.70618569,-72.28329622",
+        "null": "1",
+        "place": "room ",
+        "productivity": "4",
+        "resp_time": 1366779579
+    },
+    {
+        "location": "43.70624722,-72.28332992",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "4",
+        "resp_time": 1366935234
+    },
+    {
+        "location": "43.70616658,-72.2833093",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1367186767
+    },
+    {
+        "location": "43.70612104,-72.2832571",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "4",
+        "resp_time": 1367359213
+    },
+    {
+        "location": "43.70572754,-72.28345198",
+        "noise": "1",
+        "place": "room",
+        "productivity": "4",
+        "resp_time": 1367625888
+    },
+    {
+        "location": "43.7061181,-72.28339464",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1368237736
+    },
+    {
+        "location": "43.70647378,-72.28294033",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "3",
+        "resp_time": 1368416721
+    },
+    {
+        "location": "43.70619218,-72.28332721",
+        "noise": "4",
+        "place": "room ",
+        "productivity": "1",
+        "resp_time": 1368048585
+    },
+    {
+        "location": "43.70611027,-72.28315294",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "1",
+        "resp_time": 1368504248
+    },
+    {
+        "location": "43.70616813,-72.2832338",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "1",
+        "resp_time": 1368162889
+    },
+    {
+        "location": "43.70600359,-72.28320712",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1369250724
+    },
+    {
+        "location": "43.70622433,-72.28334234",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1369779478
+    },
+    {
+        "location": "43.70622433,-72.28334234",
+        "noise": "4",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1369779491
+    },
+    {
+        "location": "43.70618068,-72.28338039",
+        "noise": "1",
+        "place": "room ",
+        "productivity": "2",
+        "resp_time": 1369727181
+    }
+]

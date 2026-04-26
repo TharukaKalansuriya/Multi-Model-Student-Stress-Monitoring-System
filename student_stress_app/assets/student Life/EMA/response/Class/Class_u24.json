@@ -1,0 +1,206 @@
+[
+    {
+        "null": "4",
+        "resp_time": 1364122140
+    },
+    {
+        "course_id": "m&S's 45",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70588361,-72.29057766",
+        "resp_time": 1364601917
+    },
+    {
+        "null": "3",
+        "resp_time": 1364118574
+    },
+    {
+        "null": "43.70636949,-72.28817596",
+        "resp_time": 1364122138
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122404
+    },
+    {
+        "null": "vh",
+        "resp_time": 1364122403
+    },
+    {
+        "null": "hhh",
+        "resp_time": 1364122137
+    },
+    {
+        "null": "1",
+        "resp_time": 1364122406
+    },
+    {
+        "null": "2",
+        "resp_time": 1364122135
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7064761,-72.29088936",
+        "resp_time": 1365020011
+    },
+    {
+        "null": "4",
+        "resp_time": 1364122408
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70633345,-72.29084334",
+        "resp_time": 1364590920
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.632408,-72.31682454",
+        "resp_time": 1364517555
+    },
+    {
+        "course_id": "CS 60",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70581146,-72.29026137",
+        "resp_time": 1364517557
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70677201,-72.29138349",
+        "resp_time": 1364937166
+    },
+    {
+        "course_id": "math ",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.70887046,-72.28422588",
+        "resp_time": 1364847716
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.7088764,-72.28421944",
+        "resp_time": 1364843123
+    },
+    {
+        "course_id": "M&SS 45",
+        "due": "1",
+        "experience": "4",
+        "hours": "2",
+        "location": "43.70540107,-72.29128943",
+        "resp_time": 1364865954
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70613935,-72.29098339",
+        "resp_time": 1365447929
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70610429,-72.29075771",
+        "resp_time": 1365192753
+    },
+    {
+        "course_id": "cs60",
+        "due": "2",
+        "experience": "5",
+        "hours": "1",
+        "location": "43.70698178,-72.28714864",
+        "resp_time": 1365202671
+    },
+    {
+        "course_id": "math22",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70610429,-72.29075771",
+        "resp_time": 1365192771
+    },
+    {
+        "course_id": "math22",
+        "due": "1",
+        "experience": "4",
+        "hours": "6",
+        "location": "43.70613935,-72.29098339",
+        "resp_time": 1365452824
+    },
+    {
+        "course_id": "cs60",
+        "due": "1",
+        "experience": "2",
+        "hours": "9",
+        "location": "43.70615324,-72.29155002",
+        "resp_time": 1365470081
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70615324,-72.29155002",
+        "resp_time": 1365470088
+    },
+    {
+        "course_id": "math22",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70622719,-72.29042601",
+        "resp_time": 1365552014
+    },
+    {
+        "course_id": "math22",
+        "due": "2",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.706227,-72.29104106",
+        "resp_time": 1365799962
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70597871,-72.28908972",
+        "resp_time": 1365793713
+    },
+    {
+        "course_id": "m&ss45",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366244458
+    },
+    {
+        "course_id": "math 22",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70768728,-72.28472492",
+        "resp_time": 1366420866
+    }
+]

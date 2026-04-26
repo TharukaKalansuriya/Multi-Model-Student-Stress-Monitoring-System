@@ -1,0 +1,37 @@
+[
+    {
+        "location": "43.70262932,-72.28725115",
+        "null": "2",
+        "place": "cLh",
+        "productivity": "4",
+        "resp_time": 1366330400
+    },
+    {
+        "location": "43.70264346,-72.28707",
+        "null": "1",
+        "place": "clh ",
+        "productivity": "3",
+        "resp_time": 1366341980
+    },
+    {
+        "location": "43.70747,-72.28925023",
+        "null": "1",
+        "place": "neukom room",
+        "productivity": "2",
+        "resp_time": 1366560412
+    },
+    {
+        "location": "43.70623193,-72.28691743",
+        "noise": "1",
+        "place": "clh",
+        "productivity": "1",
+        "resp_time": 1366940423
+    },
+    {
+        "location": "43.70406013,-72.29051606",
+        "noise": "2",
+        "place": "LSC",
+        "productivity": "2",
+        "resp_time": 1369358384
+    }
+]

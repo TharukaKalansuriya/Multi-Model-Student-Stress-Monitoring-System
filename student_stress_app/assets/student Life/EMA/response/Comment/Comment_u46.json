@@ -1,0 +1,52 @@
+[
+    {
+        "null": "43.70481998,-72.28854928",
+        "resp_time": 1364121909
+    },
+    {
+        "null": "43.70638475,-72.28703556",
+        "resp_time": 1364118419
+    },
+    {
+        "null": "43.70627424,-72.28824801",
+        "resp_time": 1364121912
+    },
+    {
+        "null": "43.70634601,-72.2882174",
+        "resp_time": 1364121931
+    },
+    {
+        "null": "43.70493756,-72.28874493",
+        "resp_time": 1364121911
+    },
+    {
+        "comment": "awesome baby back ribs. what are they made of? why 'baby'?",
+        "location": "43.70105311,-72.28963051",
+        "resp_time": 1364796219
+    },
+    {
+        "comment": "lost a game of pong",
+        "location": "43.70105311,-72.28963051",
+        "resp_time": 1364807099
+    },
+    {
+        "comment": "feeling pretty good",
+        "location": "43.70628963,-72.28834634",
+        "resp_time": 1364792699
+    },
+    {
+        "comment": "trying to plow through all this cs65 notes",
+        "location": "43.70628963,-72.28834634",
+        "resp_time": 1364788565
+    },
+    {
+        "comment": "I hate cs",
+        "location": "43.70581445,-72.28774468",
+        "resp_time": 1365393844
+    },
+    {
+        "comment": "cs50 ugh",
+        "location": "43.70293603,-72.28959821",
+        "resp_time": 1365052131
+    }
+]

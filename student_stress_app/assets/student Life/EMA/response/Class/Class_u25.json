@@ -1,0 +1,166 @@
+[
+    {
+        "null": "43.70643224,-72.28718618",
+        "resp_time": 1364118935
+    },
+    {
+        "null": "43.70643224,-72.28718618",
+        "resp_time": 1364121778
+    },
+    {
+        "null": "3",
+        "resp_time": 1364121462
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.44242939,-72.06891831",
+        "resp_time": 1364868983
+    },
+    {
+        "null": "6",
+        "resp_time": 1364121453
+    },
+    {
+        "null": "3",
+        "resp_time": 1364121464
+    },
+    {
+        "course_id": "English 28",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70105953,-72.28570525",
+        "resp_time": 1364429445
+    },
+    {
+        "course_id": "computer science 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70909673,-72.28432992",
+        "resp_time": 1364521721
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70042959,-72.2867107",
+        "resp_time": 1364602446
+    },
+    {
+        "course_id": "no class today",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70256973,-72.28784525",
+        "resp_time": 1364691524
+    },
+    {
+        "course_id": "cs65 section",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70065679,-72.28685874",
+        "resp_time": 1364945517
+    },
+    {
+        "course_id": "English 28",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70112268,-72.28657241",
+        "resp_time": 1365030879
+    },
+    {
+        "course_id": "nas8",
+        "due": "1",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.7078117,-72.28487208",
+        "resp_time": 1365027130
+    },
+    {
+        "course_id": "cs 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70866672,-72.28394883",
+        "resp_time": 1365109505
+    },
+    {
+        "course_id": "English 28",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70866672,-72.28394883",
+        "resp_time": 1365104501
+    },
+    {
+        "course_id": "English 28",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365188117
+    },
+    {
+        "course_id": "nas8",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1365205344
+    },
+    {
+        "course_id": "nas8",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70309694,-72.28992457",
+        "resp_time": 1365473793
+    },
+    {
+        "course_id": "English 28",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365619470
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365645252
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70902013,-72.28426928",
+        "resp_time": 1365730340
+    },
+    {
+        "course_id": "nas8",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "43.70615155,-72.28799023",
+        "resp_time": 1365815018
+    },
+    {
+        "course_id": "nas8",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70609873,-72.28690685",
+        "resp_time": 1366078260
+    }
+]

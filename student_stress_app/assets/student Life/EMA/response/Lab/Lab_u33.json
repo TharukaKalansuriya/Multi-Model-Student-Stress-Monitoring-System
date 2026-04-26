@@ -1,0 +1,26 @@
+[
+    {
+        "duration": "9",
+        "enjoy": "5",
+        "location": "43.7028052,-72.2897034",
+        "resp_time": 1366848350
+    },
+    {
+        "duration": "8",
+        "enjoy": "2",
+        "location": "Unknown",
+        "resp_time": 1368046815
+    },
+    {
+        "duration": "6",
+        "enjoy": "1",
+        "location": "43.70416591,-72.29582511",
+        "resp_time": 1368478771
+    },
+    {
+        "duration": "6",
+        "enjoy": "5",
+        "location": "43.70340016,-72.29598785",
+        "resp_time": 1368910740
+    }
+]

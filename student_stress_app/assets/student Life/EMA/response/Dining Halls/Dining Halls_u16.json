@@ -1,0 +1,156 @@
+[
+    {
+        "breakfast": "1",
+        "dinner": "7",
+        "location": "43.70381392,-72.29084126",
+        "lunch": "1",
+        "resp_time": 1366956912
+    },
+    {
+        "breakfast": "1",
+        "dinner": "8",
+        "location": "43.70376923,-72.29082966",
+        "lunch": "1",
+        "resp_time": 1367103235
+    },
+    {
+        "breakfast": "1",
+        "dinner": "4",
+        "location": "43.70373954,-72.29185672",
+        "lunch": "1",
+        "resp_time": 1366733936
+    },
+    {
+        "breakfast": "8",
+        "dinner": "3",
+        "location": "43.70366774,-72.29147122",
+        "lunch": "4",
+        "resp_time": 1366663503
+    },
+    {
+        "breakfast": "8",
+        "dinner": "3",
+        "location": "43.70366774,-72.29147122",
+        "lunch": "4",
+        "resp_time": 1366660934
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "Unknown",
+        "lunch": "8",
+        "resp_time": 1366831324
+    },
+    {
+        "breakfast": "3",
+        "dinner": "3",
+        "location": "43.70435459,-72.29034651",
+        "lunch": "3",
+        "resp_time": 1367268430
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70376088,-72.29035391",
+        "lunch": "1",
+        "resp_time": 1367341887
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70545477,-72.28953205",
+        "lunch": "1",
+        "resp_time": 1367458812
+    },
+    {
+        "breakfast": "1",
+        "dinner": "8",
+        "location": "Unknown",
+        "lunch": "1",
+        "resp_time": 1367515665
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70317722,-72.28939878",
+        "lunch": "4",
+        "resp_time": 1368250107
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70534496,-72.29049134",
+        "lunch": "4",
+        "resp_time": 1367946852
+    },
+    {
+        "breakfast": "3",
+        "dinner": "3",
+        "location": "43.70397531,-72.28989529",
+        "lunch": "3",
+        "resp_time": 1367773846
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70444528,-72.29050901",
+        "lunch": "1",
+        "resp_time": 1368038279
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70391463,-72.28988644",
+        "lunch": "1",
+        "resp_time": 1368561613
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70360319,-72.29109274",
+        "lunch": "4",
+        "resp_time": 1367612180
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70355342,-72.29047722",
+        "lunch": "1",
+        "resp_time": 1367691553
+    },
+    {
+        "breakfast": "7",
+        "dinner": "7",
+        "location": "43.70391463,-72.28988644",
+        "lunch": "7",
+        "resp_time": 1368499489
+    },
+    {
+        "breakfast": "1",
+        "dinner": "3",
+        "location": "43.70317722,-72.28939878",
+        "lunch": "1",
+        "resp_time": 1368290047
+    },
+    {
+        "breakfast": "7",
+        "dinner": "8",
+        "location": "Unknown",
+        "lunch": "7",
+        "resp_time": 1368386025
+    },
+    {
+        "breakfast": "5",
+        "dinner": "3",
+        "location": "43.70290001,-72.28954014",
+        "lunch": "4",
+        "resp_time": 1369247314
+    },
+    {
+        "breakfast": "1",
+        "dinner": "1",
+        "location": "43.70372826,-72.29097234",
+        "lunch": "4",
+        "resp_time": 1369417057
+    }
+]

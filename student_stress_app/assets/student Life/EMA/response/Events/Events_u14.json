@@ -1,0 +1,18 @@
+[
+    {
+        "location": "43.7053321,-72.28731716",
+        "negative": "2",
+        "nevent": "",
+        "pevent": "",
+        "positive": "6",
+        "resp_time": 1366390861
+    },
+    {
+        "location": "43.70583844,-72.28867002",
+        "negative": "1",
+        "nevent": "nothing",
+        "pevent": "meetings",
+        "positive": "4",
+        "resp_time": 1366955989
+    }
+]

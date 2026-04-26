@@ -1,0 +1,11 @@
+2013-02-07 12:04:32,53 Commons,Lunch
+2013-03-01 11:19:11,53 Commons,Lunch
+2013-03-04 17:39:58,Collis Cafe,Supper
+2013-03-04 18:04:07,Novack Cafe,Supper
+2013-03-06 17:59:20,Collis Cafe,Supper
+2013-03-08 19:08:50,Collis Cafe,Supper
+2013-03-10 19:48:11,Novack Cafe,Supper
+2013-03-11 18:19:26,Collis Cafe,Supper
+2013-03-13 19:00:12,53 Commons,Supper
+2013-03-15 18:53:21,Courtyard Cafe,Snack
+2013-03-15 19:15:55,King Arthur Flour Coffee Bar,Snack

@@ -1,0 +1,50 @@
+[
+    {
+        "location": "42.34417536,-71.14269636",
+        "negative": "5",
+        "nevent": "paper deadline",
+        "pevent": "paper",
+        "positive": "6",
+        "resp_time": 1366360400
+    },
+    {
+        "location": "43.70659693,-72.2871206",
+        "negative": "4",
+        "nevent": "plot",
+        "pevent": "trip",
+        "positive": "6",
+        "resp_time": 1367035970
+    },
+    {
+        "location": "43.65191693,-72.31010354",
+        "negative": "4",
+        "nevent": "task",
+        "pevent": "Boston",
+        "positive": "5",
+        "resp_time": 1366917312
+    },
+    {
+        "location": "43.65190056,-72.30984909",
+        "negative": "4",
+        "nevent": "coach",
+        "pevent": "food",
+        "positive": "6",
+        "resp_time": 1366959816
+    },
+    {
+        "location": "43.65197574,-72.31018317",
+        "negative": "2",
+        "nevent": "work",
+        "pevent": "exercise",
+        "positive": "5",
+        "resp_time": 1367478427
+    },
+    {
+        "location": "43.70818124,-72.28597818",
+        "negative": "5",
+        "nevent": "paper",
+        "pevent": "hotpot",
+        "positive": "6",
+        "resp_time": 1369092538
+    }
+]

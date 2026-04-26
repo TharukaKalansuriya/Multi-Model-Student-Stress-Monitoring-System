@@ -1,0 +1,275 @@
+2013-01-05 17:18:19,53 Commons,Supper
+2013-01-06 10:15:11,53 Commons,Breakfast
+2013-01-07 10:24:18,Collis Market,Breakfast
+2013-01-07 10:26:22,Collis Cafe,Snack
+2013-01-07 17:26:52,53 Commons,Supper
+2013-01-08 12:16:56,King Arthur Flour Coffee Bar,Lunch
+2013-01-08 17:36:44,53 Commons,Supper
+2013-01-09 09:56:41,King Arthur Flour Coffee Bar,Breakfast
+2013-01-09 10:03:06,Novack Cafe,Snack
+2013-01-09 16:08:30,Courtyard Cafe,Snack
+2013-01-09 17:18:06,53 Commons,Supper
+2013-01-10 12:27:22,Collis Cafe,Lunch
+2013-01-11 10:58:41,King Arthur Flour Coffee Bar,Breakfast
+2013-01-11 17:13:28,53 Commons,Supper
+2013-01-12 11:50:43,Courtyard Cafe,Lunch
+2013-01-12 17:17:27,53 Commons,Supper
+2013-01-13 12:32:53,53 Commons,Lunch
+2013-01-13 17:16:25,53 Commons,Supper
+2013-01-13 20:18:41,King Arthur Flour Coffee Bar,Supper
+2013-01-14 17:03:31,53 Commons,Supper
+2013-01-15 08:59:50,King Arthur Flour Coffee Bar,Snack
+2013-01-15 12:01:30,Courtyard Cafe,Snack
+2013-01-15 17:20:34,53 Commons,Supper
+2013-01-16 10:26:03,King Arthur Flour Coffee Bar,Breakfast
+2013-01-17 21:38:15,Courtyard Cafe,Snack
+2013-01-19 11:17:33,53 Commons,Lunch
+2013-01-19 17:12:13,53 Commons,Supper
+2013-01-20 12:09:50,53 Commons,Lunch
+2013-01-21 17:13:17,53 Commons,Supper
+2013-01-22 14:20:55,King Arthur Flour Coffee Bar,Lunch
+2013-01-22 18:08:08,Courtyard Cafe,Supper
+2013-01-23 10:01:50,King Arthur Flour Coffee Bar,Breakfast
+2013-01-24 11:03:13,Courtyard Cafe,Lunch
+2013-01-24 17:22:06,53 Commons,Supper
+2013-01-25 10:07:44,King Arthur Flour Coffee Bar,Breakfast
+2013-01-25 17:20:34,53 Commons,Supper
+2013-01-26 11:04:25,53 Commons,Lunch
+2013-01-26 12:14:58,Collis Market,Lunch
+2013-01-26 12:20:47,King Arthur Flour Coffee Bar,Snack
+2013-01-26 17:17:24,53 Commons,Supper
+2013-01-28 13:50:06,Collis Cafe,Lunch
+2013-01-28 17:13:07,53 Commons,Supper
+2013-01-29 13:59:24,King Arthur Flour Coffee Bar,Lunch
+2013-01-30 10:02:45,King Arthur Flour Coffee Bar,Breakfast
+2013-01-30 17:11:10,53 Commons,Supper
+2013-01-30 18:29:58,Novack Cafe,Snack
+2013-01-31 11:06:25,Courtyard Cafe,Lunch
+2013-02-01 08:40:03,King Arthur Flour Coffee Bar,Breakfast
+2013-02-02 12:02:48,53 Commons,Lunch
+2013-02-02 17:26:58,53 Commons,Supper
+2013-02-04 14:13:11,King Arthur Flour Coffee Bar,Lunch
+2013-02-04 17:30:36,53 Commons,Supper
+2013-02-06 21:42:40,Collis Cafe,Supper
+2013-02-06 22:14:25,Collis Cafe,Snack
+2013-02-07 11:43:32,Novack Cafe,Lunch
+2013-02-07 17:16:24,53 Commons,Supper
+2013-02-07 19:12:10,Collis Market,Snack
+2013-02-08 12:00:25,Collis Cafe,Lunch
+2013-02-08 13:05:18,Collis Market,Snack
+2013-02-08 17:12:28,53 Commons,Supper
+2013-02-09 13:30:25,Courtyard Cafe,Lunch
+2013-02-10 12:01:09,53 Commons,Lunch
+2013-02-11 10:12:01,King Arthur Flour Coffee Bar,Breakfast
+2013-02-11 17:08:57,53 Commons,Supper
+2013-02-12 11:14:41,Courtyard Cafe,Lunch
+2013-02-12 13:52:41,Novack Cafe,Lunch
+2013-02-12 17:17:08,53 Commons,Supper
+2013-02-13 10:10:02,King Arthur Flour Coffee Bar,Breakfast
+2013-02-13 17:11:48,53 Commons,Supper
+2013-02-14 11:11:59,Courtyard Cafe,Lunch
+2013-02-14 17:15:30,53 Commons,Supper
+2013-02-15 08:27:44,King Arthur Flour Coffee Bar,Breakfast
+2013-02-15 13:44:45,King Arthur Flour Coffee Bar,Lunch
+2013-02-15 13:46:50,Novack Cafe,Snack
+2013-02-18 08:39:35,Novack Cafe,Breakfast
+2013-02-18 10:00:09,King Arthur Flour Coffee Bar,Snack
+2013-02-18 17:13:42,53 Commons,Supper
+2013-02-19 09:35:04,Collis Cafe,Breakfast
+2013-02-19 09:42:03,King Arthur Flour Coffee Bar,Snack
+2013-02-19 17:15:52,53 Commons,Supper
+2013-02-20 08:40:47,Novack Cafe,Breakfast
+2013-02-20 10:08:35,Collis Cafe,Breakfast
+2013-02-20 17:15:18,53 Commons,Supper
+2013-02-21 12:16:10,Courtyard Cafe,Lunch
+2013-02-21 12:46:55,Courtyard Cafe,Snack
+2013-02-21 17:10:28,53 Commons,Supper
+2013-02-21 18:59:33,King Arthur Flour Coffee Bar,Snack
+2013-02-22 10:17:52,King Arthur Flour Coffee Bar,Breakfast
+2013-02-22 17:11:38,53 Commons,Supper
+2013-02-23 12:03:05,53 Commons,Lunch
+2013-02-23 17:17:46,53 Commons,Supper
+2013-02-24 11:36:19,53 Commons,Lunch
+2013-02-24 19:12:54,Courtyard Cafe,Supper
+2013-02-25 10:08:38,King Arthur Flour Coffee Bar,Breakfast
+2013-02-25 17:11:22,53 Commons,Supper
+2013-02-26 11:03:49,Courtyard Cafe,Snack
+2013-02-26 12:25:47,Collis Cafe,Lunch
+2013-02-26 17:40:43,53 Commons,Supper
+2013-02-27 08:23:18,Novack Cafe,Snack
+2013-02-27 10:01:03,King Arthur Flour Coffee Bar,Breakfast
+2013-02-27 17:15:32,53 Commons,Supper
+2013-02-28 10:46:52,King Arthur Flour Coffee Bar,Breakfast
+2013-02-28 10:50:09,Novack Cafe,Snack
+2013-02-28 17:19:25,53 Commons,Supper
+2013-03-01 08:11:08,Novack Cafe,Breakfast
+2013-03-01 10:18:07,Novack Cafe,Snack
+2013-03-01 17:18:31,53 Commons,Supper
+2013-03-02 12:28:55,King Arthur Flour Coffee Bar,Lunch
+2013-03-03 12:06:40,Courtyard Cafe,Lunch
+2013-03-03 13:03:56,Courtyard Cafe,Lunch
+2013-03-03 18:27:03,King Arthur Flour Coffee Bar,Supper
+2013-03-04 07:17:45,Collis Cafe,Breakfast
+2013-03-04 17:13:28,53 Commons,Supper
+2013-03-05 08:49:18,Novack Cafe,Breakfast
+2013-03-05 17:16:57,53 Commons,Supper
+2013-03-05 20:31:47,Novack Cafe,Snack
+2013-03-06 08:40:01,Novack Cafe,Breakfast
+2013-03-06 09:58:16,Novack Cafe,Breakfast
+2013-03-06 13:53:34,King Arthur Flour Coffee Bar,Lunch
+2013-03-06 17:13:13,53 Commons,Supper
+2013-03-07 11:02:07,Courtyard Cafe,Lunch
+2013-03-07 17:13:35,53 Commons,Supper
+2013-03-08 08:44:50,King Arthur Flour Coffee Bar,Snack
+2013-03-08 10:03:33,Novack Cafe,Breakfast
+2013-03-08 13:45:26,King Arthur Flour Coffee Bar,Lunch
+2013-03-08 17:24:51,53 Commons,Supper
+2013-03-08 18:04:51,Novack Cafe,Supper
+2013-03-09 11:14:41,King Arthur Flour Coffee Bar,Lunch
+2013-03-09 11:17:04,Novack Cafe,Lunch
+2013-03-09 22:08:19,Collis Cafe,Supper
+2013-03-10 14:22:52,King Arthur Flour Coffee Bar,Lunch
+2013-03-11 07:22:41,Novack Cafe,Breakfast
+2013-03-11 11:46:51,King Arthur Flour Coffee Bar,Lunch
+2013-03-11 22:50:54,Novack Cafe,Supper
+2013-03-12 08:21:05,Novack Cafe,Snack
+2013-03-12 08:27:32,King Arthur Flour Coffee Bar,Snack
+2013-03-13 12:00:40,Courtyard Cafe,Lunch
+2013-03-13 12:49:20,Courtyard Cafe,Lunch
+2013-03-13 18:57:24,53 Commons,Supper
+2013-03-14 17:09:54,Courtyard Cafe,Snack
+2013-03-15 11:08:43,53 Commons,Lunch
+2013-03-15 15:40:06,King Arthur Flour Coffee Bar,Lunch
+2013-03-15 17:37:57,Courtyard Cafe,Supper
+2013-03-24 09:47:40,53 Commons,Breakfast
+2013-03-24 14:20:05,Courtyard Cafe,Lunch
+2013-03-24 18:00:14,53 Commons,Supper
+2013-03-25 09:03:17,Collis Cafe,Breakfast
+2013-03-25 11:25:36,Courtyard Cafe,Lunch
+2013-03-25 17:57:15,53 Commons,Supper
+2013-03-26 08:41:23,Collis Cafe,Breakfast
+2013-03-26 12:30:51,Collis Cafe,Lunch
+2013-03-26 17:13:03,53 Commons,Supper
+2013-03-26 20:48:56,King Arthur Flour Coffee Bar,Snack
+2013-03-27 08:46:56,Collis Cafe,Breakfast
+2013-03-27 11:22:28,Collis Cafe,Lunch
+2013-03-27 17:04:25,53 Commons,Supper
+2013-03-28 10:21:16,Collis Cafe,Breakfast
+2013-03-28 18:41:00,53 Commons,Supper
+2013-03-29 09:09:57,Collis Cafe,Breakfast
+2013-03-29 13:02:17,King Arthur Flour Coffee Bar,Lunch
+2013-03-29 17:11:41,53 Commons,Supper
+2013-03-29 23:59:27,Collis Cafe,Supper
+2013-03-30 12:02:22,53 Commons,Lunch
+2013-03-30 17:08:20,53 Commons,Supper
+2013-03-30 22:49:03,Collis Cafe,Supper
+2013-03-31 13:48:18,Courtyard Cafe,Lunch
+2013-03-31 18:35:37,53 Commons,Supper
+2013-03-31 22:04:32,Collis Cafe,Supper
+2013-04-01 11:34:46,Courtyard Cafe,Lunch
+2013-04-01 17:51:05,53 Commons,Supper
+2013-04-01 20:00:38,Collis Cafe,Supper
+2013-04-02 10:39:15,Collis Cafe,Breakfast
+2013-04-02 17:05:40,53 Commons,Supper
+2013-04-03 08:18:54,Collis Cafe,Breakfast
+2013-04-03 11:23:06,King Arthur Flour Coffee Bar,Lunch
+2013-04-03 17:09:20,53 Commons,Supper
+2013-04-03 21:18:07,King Arthur Flour Coffee Bar,Snack
+2013-04-04 11:41:15,King Arthur Flour Coffee Bar,Lunch
+2013-04-04 18:07:32,53 Commons,Supper
+2013-04-05 08:08:16,Collis Cafe,Breakfast
+2013-04-05 12:51:46,Collis Cafe,Lunch
+2013-04-05 17:09:42,53 Commons,Supper
+2013-04-05 22:40:11,Collis Cafe,Supper
+2013-04-06 14:54:52,Courtyard Cafe,Lunch
+2013-04-06 17:27:39,53 Commons,Supper
+2013-04-06 21:52:37,Collis Cafe,Supper
+2013-04-07 11:38:28,53 Commons,Lunch
+2013-04-07 17:32:26,53 Commons,Supper
+2013-04-08 08:21:55,Collis Cafe,Snack
+2013-04-08 11:28:59,King Arthur Flour Coffee Bar,Lunch
+2013-04-08 17:00:58,53 Commons,Supper
+2013-04-08 21:43:10,Collis Cafe,Supper
+2013-04-09 12:29:45,Collis Cafe,Snack
+2013-04-10 12:36:20,53 Commons,Lunch
+2013-04-10 12:47:19,Collis Cafe,Lunch
+2013-04-10 15:22:18,Collis Cafe,Snack
+2013-04-10 21:27:00,Collis Market,Snack
+2013-04-10 21:36:37,Collis Cafe,Snack
+2013-04-11 11:44:27,King Arthur Flour Coffee Bar,Lunch
+2013-04-11 18:46:57,53 Commons,Supper
+2013-04-12 08:17:11,Collis Cafe,Breakfast
+2013-04-12 11:27:47,Collis Cafe,Lunch
+2013-04-12 17:16:22,53 Commons,Supper
+2013-04-12 22:38:02,Collis Cafe,Supper
+2013-04-13 11:17:23,53 Commons,Lunch
+2013-04-13 17:39:38,53 Commons,Supper
+2013-04-14 10:32:30,53 Commons,Breakfast
+2013-04-14 17:07:19,53 Commons,Supper
+2013-04-15 11:24:20,Collis Cafe,Lunch
+2013-04-15 17:47:26,53 Commons,Supper
+2013-04-16 10:22:04,Collis Cafe,Breakfast
+2013-04-16 17:56:10,53 Commons,Supper
+2013-04-16 22:32:28,Collis Cafe,Supper
+2013-04-17 08:19:41,Collis Cafe,Snack
+2013-04-17 11:21:24,King Arthur Flour Coffee Bar,Lunch
+2013-04-17 11:23:44,Novack Cafe,Snack
+2013-04-17 17:11:20,53 Commons,Supper
+2013-04-18 09:03:30,Collis Cafe,Snack
+2013-04-18 13:37:17,Collis Cafe,Lunch
+2013-04-18 18:06:12,53 Commons,Supper
+2013-04-18 20:48:22,King Arthur Flour Coffee Bar,Snack
+2013-04-18 21:43:10,King Arthur Flour Coffee Bar,Supper
+2013-04-19 08:22:31,Collis Cafe,Breakfast
+2013-04-19 11:19:16,Collis Cafe,Snack
+2013-04-20 17:10:58,53 Commons,Supper
+2013-04-21 12:27:01,King Arthur Flour Coffee Bar,Lunch
+2013-04-21 18:00:14,53 Commons,Supper
+2013-04-22 11:18:30,Collis Cafe,Lunch
+2013-04-22 23:03:06,King Arthur Flour Coffee Bar,Supper
+2013-04-22 23:08:05,Collis Cafe,Snack
+2013-04-23 09:50:44,Collis Cafe,Breakfast
+2013-04-23 18:06:12,53 Commons,Supper
+2013-04-24 08:22:48,Collis Cafe,Snack
+2013-04-24 11:10:04,Collis Cafe,Lunch
+2013-04-25 15:01:55,King Arthur Flour Coffee Bar,Lunch
+2013-04-25 15:04:05,Novack Cafe,Snack
+2013-04-25 18:44:36,53 Commons,Supper
+2013-04-26 11:26:57,Collis Cafe,Lunch
+2013-04-26 22:10:22,Collis Cafe,Snack
+2013-04-27 11:33:58,53 Commons,Lunch
+2013-04-27 17:15:38,53 Commons,Supper
+2013-04-28 11:38:35,53 Commons,Lunch
+2013-04-28 17:14:45,53 Commons,Supper
+2013-04-28 22:16:55,King Arthur Flour Coffee Bar,Snack
+2013-04-29 11:25:21,Collis Cafe,Lunch
+2013-04-29 23:27:22,Collis Cafe,Supper
+2013-04-30 09:17:48,Collis Cafe,Snack
+2013-04-30 18:27:02,53 Commons,Supper
+2013-05-01 11:24:46,Collis Cafe,Lunch
+2013-05-01 12:09:52,King Arthur Flour Coffee Bar,Lunch
+2013-05-02 09:36:05,Collis Cafe,Breakfast
+2013-05-02 11:16:45,King Arthur Flour Coffee Bar,Lunch
+2013-05-02 14:18:13,King Arthur Flour Coffee Bar,Snack
+2013-05-02 18:08:36,53 Commons,Supper
+2013-05-03 11:25:19,Collis Cafe,Lunch
+2013-05-03 19:30:50,53 Commons,Supper
+2013-05-04 17:11:21,53 Commons,Supper
+2013-05-05 11:43:50,53 Commons,Lunch
+2013-05-05 17:08:49,53 Commons,Supper
+2013-05-06 09:45:40,Collis Cafe,Breakfast
+2013-05-07 18:03:03,53 Commons,Supper
+2013-05-08 08:20:35,Collis Cafe,Snack
+2013-05-08 11:27:48,Collis Cafe,Lunch
+2013-05-08 17:12:42,53 Commons,Supper
+2013-05-08 21:19:10,King Arthur Flour Coffee Bar,Snack
+2013-05-09 10:11:48,Collis Cafe,Breakfast
+2013-05-09 13:42:55,King Arthur Flour Coffee Bar,Lunch
+2013-05-10 11:16:46,Collis Cafe,Lunch
+2013-05-10 14:22:28,Collis Cafe,Snack
+2013-05-10 17:10:45,53 Commons,Supper
+2013-05-12 16:41:55,King Arthur Flour Coffee Bar,Snack
+2013-05-13 10:52:50,Collis Cafe,Snack
+2013-05-13 17:45:54,53 Commons,Supper
+2013-05-14 09:57:30,Collis Cafe,Breakfast
+2013-05-14 17:19:52,53 Commons,Supper

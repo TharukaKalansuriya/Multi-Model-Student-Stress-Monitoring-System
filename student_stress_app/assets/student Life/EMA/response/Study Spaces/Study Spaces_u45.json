@@ -1,0 +1,23 @@
+[
+    {
+        "location": "43.70660964,-72.28700758",
+        "null": "1",
+        "place": "sudikoff001",
+        "productivity": "1",
+        "resp_time": 1366690114
+    },
+    {
+        "location": "43.70865564,-72.28578202",
+        "noise": "1",
+        "place": "sudikoFF",
+        "productivity": "1",
+        "resp_time": 1368421295
+    },
+    {
+        "location": "43.71785226,-72.30689429",
+        "noise": "1",
+        "place": "Dana library",
+        "productivity": "2",
+        "resp_time": 1368248502
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "location": "43.70518194,-72.28800233",
+        "null": "1",
+        "place": "",
+        "productivity": "1",
+        "resp_time": 1366489083
+    },
+    {
+        "location": "43.70277439,-72.28880163",
+        "noise": "1",
+        "place": "berry 1",
+        "productivity": "3",
+        "resp_time": 1366960464
+    },
+    {
+        "location": "43.70406215,-72.28755806",
+        "null": "2",
+        "place": "berry 1",
+        "productivity": "3",
+        "resp_time": 1366518033
+    },
+    {
+        "location": "43.70351705,-72.28645145",
+        "null": "1",
+        "place": "kresge",
+        "productivity": "1",
+        "resp_time": 1366591862
+    },
+    {
+        "location": "43.70406215,-72.28755806",
+        "null": "2",
+        "place": "sudikoff basement",
+        "productivity": "3",
+        "resp_time": 1366575718
+    },
+    {
+        "location": "43.70466963,-72.28690138",
+        "null": "3",
+        "place": "my room south fay ",
+        "productivity": "2",
+        "resp_time": 1366787400
+    },
+    {
+        "location": "43.7052687,-72.28811786",
+        "null": "2",
+        "place": "sudi 003",
+        "productivity": "4",
+        "resp_time": 1366698669
+    },
+    {
+        "location": "43.70434734,-72.28679491",
+        "null": "3",
+        "place": "sudi 003",
+        "productivity": "3",
+        "resp_time": 1366758102
+    },
+    {
+        "location": "43.70466963,-72.28690138",
+        "null": "1",
+        "place": "sudi 115",
+        "productivity": "3",
+        "resp_time": 1366780141
+    },
+    {
+        "location": "43.70491272,-72.29111025",
+        "null": "2",
+        "place": "sudi 143",
+        "productivity": "1",
+        "resp_time": 1366851437
+    },
+    {
+        "location": "43.70388197,-72.28693527",
+        "noise": "1",
+        "place": "McLane ",
+        "productivity": "1",
+        "resp_time": 1366926974
+    },
+    {
+        "location": "43.70388197,-72.28693527",
+        "noise": "3",
+        "place": "kemeny 006",
+        "productivity": "4",
+        "resp_time": 1366940931
+    },
+    {
+        "location": "43.70295661,-72.28995533",
+        "noise": "2",
+        "place": "sudi",
+        "productivity": "3",
+        "resp_time": 1367022714
+    },
+    {
+        "location": "43.70295661,-72.28995533",
+        "noise": "1",
+        "place": "sudi ",
+        "productivity": "3",
+        "resp_time": 1367022705
+    },
+    {
+        "location": "43.70277439,-72.28880163",
+        "noise": "1",
+        "place": "mclane",
+        "productivity": "2",
+        "resp_time": 1366964401
+    },
+    {
+        "location": "43.70708811,-72.28767562",
+        "noise": "1",
+        "place": "sudi 003",
+        "productivity": "4",
+        "resp_time": 1367399797
+    },
+    {
+        "location": "43.70708811,-72.28767562",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "3",
+        "resp_time": 1367445357
+    },
+    {
+        "location": "43.70502255,-72.28804551",
+        "noise": "4",
+        "place": "my room",
+        "productivity": "2",
+        "resp_time": 1367564426
+    },
+    {
+        "location": "43.70386267,-72.288915",
+        "noise": "2",
+        "place": "sudi",
+        "productivity": "3",
+        "resp_time": 1368641341
+    },
+    {
+        "location": "43.7049437,-72.28880281",
+        "noise": "2",
+        "place": "berry 1",
+        "productivity": "3",
+        "resp_time": 1367898831
+    },
+    {
+        "location": "43.70454326,-72.2895076",
+        "noise": "4",
+        "place": "kaf",
+        "productivity": "1",
+        "resp_time": 1368136762
+    },
+    {
+        "location": "43.7037094,-72.28660102",
+        "noise": "4",
+        "place": "my room.",
+        "productivity": "1",
+        "resp_time": 1367745571
+    },
+    {
+        "location": "43.70343934,-72.28739154",
+        "noise": "2",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1368332586
+    },
+    {
+        "location": "43.70573461,-72.28972765",
+        "noise": "2",
+        "place": "sudi",
+        "productivity": "2",
+        "resp_time": 1369002981
+    },
+    {
+        "location": "43.70447785,-72.29155849",
+        "noise": "3",
+        "place": "my room",
+        "productivity": "1",
+        "resp_time": 1369316348
+    }
+]

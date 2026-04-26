@@ -1,0 +1,37 @@
+[
+    {
+        "location": "41.23064284,-73.0728831",
+        "null": "3",
+        "place": "New Hamp (dorm) common room",
+        "productivity": "3",
+        "resp_time": 1366495761
+    },
+    {
+        "location": "41.23064284,-73.0728831",
+        "null": "2",
+        "place": "Sudikoff 003",
+        "productivity": "4",
+        "resp_time": 1366710567
+    },
+    {
+        "location": "Unknown",
+        "noise": "2",
+        "place": "1902 room",
+        "productivity": "3",
+        "resp_time": 1366942322
+    },
+    {
+        "location": "43.70906142,-72.28431236",
+        "noise": "2",
+        "place": "Sudikoff 002",
+        "productivity": "4",
+        "resp_time": 1367258520
+    },
+    {
+        "location": "43.7024991,-72.28938342",
+        "noise": "1",
+        "place": "Paddock library",
+        "productivity": "4",
+        "resp_time": 1367562758
+    }
+]

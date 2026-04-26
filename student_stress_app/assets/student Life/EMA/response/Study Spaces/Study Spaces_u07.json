@@ -1,0 +1,16 @@
+[
+    {
+        "location": "43.70373948,-72.28447194",
+        "null": "2",
+        "place": "Morton 101b",
+        "productivity": "2",
+        "resp_time": 1366367528
+    },
+    {
+        "location": "43.70425769,-72.28391582",
+        "null": "2",
+        "place": "Morton 101b",
+        "productivity": "4",
+        "resp_time": 1366752758
+    }
+]

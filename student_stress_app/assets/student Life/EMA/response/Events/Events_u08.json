@@ -1,0 +1,82 @@
+[
+    {
+        "location": "43.70430223,-72.29046297",
+        "negative": "6",
+        "nevent": "argument (assuming this is suppose to be negative)",
+        "pevent": "code working",
+        "positive": "4",
+        "resp_time": 1366317218
+    },
+    {
+        "location": "43.70518194,-72.28800233",
+        "negative": "7",
+        "nevent": "argument",
+        "pevent": "basketball",
+        "positive": "4",
+        "resp_time": 1366489226
+    },
+    {
+        "location": "43.70295661,-72.28995533",
+        "negative": "6",
+        "nevent": "lab struggles",
+        "pevent": "calligraphy practice ",
+        "positive": "4",
+        "resp_time": 1367022631
+    },
+    {
+        "location": "43.70406215,-72.28755806",
+        "negative": "7",
+        "nevent": "argument",
+        "pevent": "code works",
+        "positive": "4",
+        "resp_time": 1366575664
+    },
+    {
+        "location": "43.7052687,-72.28811786",
+        "negative": "7",
+        "nevent": "cs 89 code breaking",
+        "pevent": "nothing really ",
+        "positive": "4",
+        "resp_time": 1366698614
+    },
+    {
+        "location": "43.70342051,-72.2865793",
+        "negative": "4",
+        "nevent": "nothing much",
+        "pevent": "nothing much",
+        "positive": "4",
+        "resp_time": 1366926950
+    },
+    {
+        "location": "43.70086878,-72.28956496",
+        "negative": "4",
+        "nevent": "struggling with iPhone app",
+        "pevent": "finish work",
+        "positive": "7",
+        "resp_time": 1367478046
+    },
+    {
+        "location": "43.70708811,-72.28767562",
+        "negative": "7",
+        "nevent": "doing cs lab",
+        "pevent": "finish cs lab",
+        "positive": "7",
+        "resp_time": 1367395029
+    },
+    {
+        "location": "43.7037094,-72.28660102",
+        "negative": "5",
+        "nevent": "nm",
+        "pevent": "nm",
+        "positive": "5",
+        "resp_time": 1367745669
+    },
+    {
+        "location": "43.7049437,-72.28880281",
+        "negative": "4",
+        "nevent": "",
+        "pevent": "finish lab",
+        "positive": "4",
+        "resp_time": 1367898760
+    }
+]

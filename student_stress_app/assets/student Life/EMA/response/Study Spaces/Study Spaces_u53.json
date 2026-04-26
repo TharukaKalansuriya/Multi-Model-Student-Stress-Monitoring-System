@@ -1,0 +1,79 @@
+[
+    {
+        "location": "43.70706072,-72.28621559",
+        "null": "1",
+        "place": "lab 004 sudikoff",
+        "productivity": "3",
+        "resp_time": 1366334903
+    },
+    {
+        "location": "43.70561908,-72.28345878",
+        "null": "2",
+        "place": "laundry room",
+        "productivity": "4",
+        "resp_time": 1366594662
+    },
+    {
+        "location": "43.70535723,-72.28283765",
+        "null": "2",
+        "place": "north park laundry room",
+        "productivity": "3",
+        "resp_time": 1366585730
+    },
+    {
+        "location": "43.70526495,-72.28296037",
+        "null": "1",
+        "place": "lab 004",
+        "productivity": "3",
+        "resp_time": 1366776081
+    },
+    {
+        "location": "43.70782584,-72.28356464",
+        "noise": "2",
+        "place": "lab 004",
+        "productivity": "3",
+        "resp_time": 1366934765
+    },
+    {
+        "location": "43.70549233,-72.28309105",
+        "noise": "2",
+        "place": "home ",
+        "productivity": "3",
+        "resp_time": 1367276969
+    },
+    {
+        "location": "43.70535023,-72.28313549",
+        "noise": "2",
+        "place": "lab 004 sudikoff",
+        "productivity": "3",
+        "resp_time": 1367448734
+    },
+    {
+        "location": "43.70530903,-72.28280628",
+        "noise": "2",
+        "place": "home -- n. park st",
+        "productivity": "3",
+        "resp_time": 1368333136
+    },
+    {
+        "location": "Unknown",
+        "noise": "2",
+        "place": "lab 004 sudi",
+        "productivity": "3",
+        "resp_time": 1368044580
+    },
+    {
+        "location": "43.70688236,-72.28741965",
+        "noise": "3",
+        "place": "lab 143 sudi",
+        "productivity": "3",
+        "resp_time": 1367631086
+    },
+    {
+        "location": "43.70554233,-72.28319126",
+        "noise": "1",
+        "place": "",
+        "productivity": "1",
+        "resp_time": 1368845460
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "location": "43.70563344,-72.29166368",
+        "null": "2",
+        "place": "room, butterfield",
+        "productivity": "2",
+        "resp_time": 1366331197
+    },
+    {
+        "location": "Unknown",
+        "null": "3",
+        "place": "sister's room",
+        "productivity": "3",
+        "resp_time": 1366597117
+    },
+    {
+        "location": "Unknown",
+        "noise": "3",
+        "place": "gf's room",
+        "productivity": "1",
+        "resp_time": 1367187445
+    },
+    {
+        "location": "44.27432932,-69.80620493",
+        "null": "3",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1366597115
+    },
+    {
+        "location": "43.19811283,-71.57502716",
+        "null": "4",
+        "place": "room, this morning ",
+        "productivity": "2",
+        "resp_time": 1366597112
+    },
+    {
+        "location": "43.70399175,-72.29094324",
+        "noise": "2",
+        "place": "room",
+        "productivity": "2",
+        "resp_time": 1367274424
+    },
+    {
+        "location": "43.70614429,-72.2869262",
+        "noise": "2",
+        "place": "cs help session ",
+        "productivity": "3",
+        "resp_time": 1368417851
+    },
+    {
+        "location": "43.70650947,-72.2871314",
+        "noise": "2",
+        "place": "cs help session",
+        "productivity": "4",
+        "resp_time": 1367714962
+    },
+    {
+        "location": "43.70577334,-72.29071236",
+        "noise": "3",
+        "place": "cs help session. ",
+        "productivity": "3",
+        "resp_time": 1368504891
+    }
+]

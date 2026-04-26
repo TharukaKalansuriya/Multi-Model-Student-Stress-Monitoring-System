@@ -1,0 +1,44 @@
+[
+    {
+        "location": "43.70402517,-72.28557608",
+        "null": "2",
+        "place": "baker",
+        "productivity": "2",
+        "resp_time": 1366413819
+    },
+    {
+        "location": "43.70356921,-72.28639414",
+        "null": "3",
+        "place": "novack",
+        "productivity": "3",
+        "resp_time": 1366602522
+    },
+    {
+        "location": "43.70471322,-72.28784779",
+        "noise": "1",
+        "place": "baker",
+        "productivity": "2",
+        "resp_time": 1367272924
+    },
+    {
+        "location": "43.70396926,-72.28577776",
+        "noise": "2",
+        "place": "novack",
+        "productivity": "3",
+        "resp_time": 1366956108
+    },
+    {
+        "location": "43.70429448,-72.28571806",
+        "noise": "1",
+        "place": "baker",
+        "productivity": "3",
+        "resp_time": 1367532662
+    },
+    {
+        "location": "43.70317223,-72.28692052",
+        "noise": "1",
+        "place": "room",
+        "productivity": "1",
+        "resp_time": 1367629001
+    }
+]

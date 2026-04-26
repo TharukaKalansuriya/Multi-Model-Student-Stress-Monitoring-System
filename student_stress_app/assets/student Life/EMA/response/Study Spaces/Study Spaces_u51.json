@@ -1,0 +1,86 @@
+[
+    {
+        "location": "43.70629349,-72.2869845",
+        "null": "1",
+        "place": "sud ",
+        "productivity": "3",
+        "resp_time": 1366335565
+    },
+    {
+        "location": "43.7071682,-72.28694781",
+        "null": "1",
+        "place": "sud",
+        "productivity": "3",
+        "resp_time": 1366521855
+    },
+    {
+        "location": "Unknown",
+        "null": "1",
+        "place": "home",
+        "productivity": "2",
+        "resp_time": 1366595901
+    },
+    {
+        "location": "43.70640485,-72.28685946",
+        "null": "1",
+        "place": "sud",
+        "productivity": "3",
+        "resp_time": 1366700884
+    },
+    {
+        "location": "43.70057317,-72.28671215",
+        "null": "1",
+        "place": "sud",
+        "productivity": "2",
+        "resp_time": 1366776209
+    },
+    {
+        "location": "43.70640485,-72.28685946",
+        "null": "1",
+        "place": "sud",
+        "productivity": "3",
+        "resp_time": 1366700846
+    },
+    {
+        "location": "43.70632069,-72.2866932",
+        "noise": "1",
+        "place": "sud",
+        "productivity": "2",
+        "resp_time": 1366935011
+    },
+    {
+        "location": "43.70429267,-72.28766204",
+        "noise": "1",
+        "place": "home",
+        "productivity": "3",
+        "resp_time": 1367365921
+    },
+    {
+        "location": "42.03630683,-72.61357093",
+        "noise": "1",
+        "place": "out",
+        "productivity": "3",
+        "resp_time": 1367798136
+    },
+    {
+        "location": "43.68782455,-72.28409129",
+        "noise": "1",
+        "place": "outside\n",
+        "productivity": "1",
+        "resp_time": 1368394227
+    },
+    {
+        "location": "43.70646762,-72.28684325",
+        "noise": "1",
+        "place": "sud",
+        "productivity": "1",
+        "resp_time": 1367810632
+    },
+    {
+        "location": "43.70636234,-72.28679273",
+        "noise": "1",
+        "place": "sud",
+        "productivity": "1",
+        "resp_time": 1368504934
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "breakfast": "8",
+        "dinner": "8",
+        "location": "Unknown",
+        "lunch": "8",
+        "resp_time": 1367209925
+    },
+    {
+        "breakfast": "8",
+        "dinner": "8",
+        "location": "43.70639878,-72.28903471",
+        "lunch": "8",
+        "resp_time": 1366668187
+    },
+    {
+        "breakfast": "8",
+        "dinner": "3",
+        "location": "43.70483018,-72.28893787",
+        "lunch": "8",
+        "resp_time": 1368481387
+    }
+]

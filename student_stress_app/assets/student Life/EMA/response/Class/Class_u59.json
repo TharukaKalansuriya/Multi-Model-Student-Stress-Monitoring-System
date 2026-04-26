@@ -1,0 +1,818 @@
+[
+    {
+        "course_id": "CS7",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70397214,-72.29027069",
+        "resp_time": 1365029896
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70572549,-72.29076597",
+        "resp_time": 1365015988
+    },
+    {
+        "course_id": "Linguistics 11",
+        "due": "2",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70601645670831,-72.28864909149706",
+        "resp_time": 1364355762
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70151604525745,-72.2881496977061",
+        "resp_time": 1364431374
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.702606027945876,-72.2895226534456",
+        "resp_time": 1364517547
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "4",
+        "location": "43.702606027945876,-72.2895226534456",
+        "resp_time": 1364507075
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1364601717
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70382381,-72.28721012",
+        "resp_time": 1364921427
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70351572,-72.28960285",
+        "resp_time": 1364860249
+    },
+    {
+        "course_id": "German 1",
+        "due": "2",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.7055138,-72.28774539",
+        "resp_time": 1364838868
+    },
+    {
+        "course_id": "CS 65",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.7055138,-72.28774539",
+        "resp_time": 1364843154
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.7052892,-72.28791432",
+        "resp_time": 1364838868
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70348925,-72.28865624",
+        "resp_time": 1364936875
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.7035497,-72.28791333",
+        "resp_time": 1365098344
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70389361,-72.28722817",
+        "resp_time": 1365094670
+    },
+    {
+        "course_id": "sexperts",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70307048,-72.29134056",
+        "resp_time": 1365120443
+    },
+    {
+        "course_id": "cs7",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70307048,-72.29134056",
+        "resp_time": 1365120429
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.706564088352025,-72.2880931198597",
+        "resp_time": 1365122527
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70640328153968,-72.28827752172947",
+        "resp_time": 1365122545
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70410232339054,-72.28721008636057",
+        "resp_time": 1365180768
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70551232714206,-72.29069134220481",
+        "resp_time": 1365205379
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "1",
+        "hours": "5",
+        "location": "43.705377923324704,-72.2905449103564",
+        "resp_time": 1365205394
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.7052727304399,-72.28970169089735",
+        "resp_time": 1365205359
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.705853219144046,-72.2873000241816",
+        "resp_time": 1365443805
+    },
+    {
+        "course_id": "CS65",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70876152999699,-72.28423618711531",
+        "resp_time": 1365447865
+    },
+    {
+        "course_id": "CS 65",
+        "due": "1",
+        "experience": "1",
+        "hours": "6",
+        "location": "43.704237481579185,-72.2890498302877",
+        "resp_time": 1365465729
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "1",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.70496301911771,-72.2903998196125",
+        "resp_time": 1366156972
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70316120330244,-72.28972448967397",
+        "resp_time": 1365552717
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70316120330244,-72.28972448967397",
+        "resp_time": 1365552694
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70316120330244,-72.28972448967397",
+        "resp_time": 1365552707
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.7040551751852,-72.28721763007343",
+        "resp_time": 1365699391
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70533023029566,-72.28808063082397",
+        "resp_time": 1366307912
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365717593
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "3",
+        "location": "43.70270728133619,-72.28772247210145",
+        "resp_time": 1365702930
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1365724586
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70292215142399,-72.2911821026355",
+        "resp_time": 1365824202
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70295664295554,-72.29111923836172",
+        "resp_time": 1365824228
+    },
+    {
+        "course_id": "Germ\ufffdn 1",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1366243369
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366071528
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1366071542
+    },
+    {
+        "course_id": "Germ\ufffdn 1 Drill",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366243357
+    },
+    {
+        "course_id": "Computer Science 7",
+        "due": "1",
+        "experience": "4",
+        "hours": "9",
+        "location": "Unknown",
+        "resp_time": 1366243390
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366277298
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.7053832039237,-72.28814735077322",
+        "resp_time": 1366307924
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "4",
+        "hours": "9",
+        "location": "Unknown",
+        "resp_time": 1366277320
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70582476258278,-72.29042178019881",
+        "resp_time": 1366404781
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70582476258278,-72.29042178019881",
+        "resp_time": 1366404797
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70440830476582,-72.2871760558337",
+        "resp_time": 1366390291
+    },
+    {
+        "course_id": "German 1",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70448730420321,-72.28795372880995",
+        "resp_time": 1366653359
+    },
+    {
+        "course_id": "German 1",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366770552
+    },
+    {
+        "course_id": "German 1Drill",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366770587
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1366770607
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70562979951501,-72.28742231614888",
+        "resp_time": 1367003153
+    },
+    {
+        "course_id": " German 1",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70627956464887,-72.29024643078446",
+        "resp_time": 1366913303
+    },
+    {
+        "course_id": "CS 7",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.704175874590874,-72.2904362808913",
+        "resp_time": 1366934060
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.704535835422575,-72.29042085818946",
+        "resp_time": 1366934071
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70562979951501,-72.28742231614888",
+        "resp_time": 1367003206
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70562979951501,-72.28742231614888",
+        "resp_time": 1367003164
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "4",
+        "hours": "2",
+        "location": "43.704183753579855,-72.28855940513313",
+        "resp_time": 1367254385
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.704183753579855,-72.28855940513313",
+        "resp_time": 1367262331
+    },
+    {
+        "course_id": "CS 65",
+        "due": "1",
+        "experience": "3",
+        "hours": "12",
+        "location": "43.704183753579855,-72.28855940513313",
+        "resp_time": 1367262340
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1367341256
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70313869789243,-72.2904294077307",
+        "resp_time": 1367384482
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "1",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70313869789243,-72.2904294077307",
+        "resp_time": 1367384498
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70215223170817,-72.28934881277382",
+        "resp_time": 1367517527
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.70457284152508,-72.2903202753514",
+        "resp_time": 1367539263
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70215223170817,-72.28934881277382",
+        "resp_time": 1367517515
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.705135183408856,-72.29042873717844",
+        "resp_time": 1367539293
+    },
+    {
+        "course_id": "CS 7",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70491880457848,-72.29022338055074",
+        "resp_time": 1367539276
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70550696272403,-72.28745399974287",
+        "resp_time": 1367863321
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70338646695018,-72.28882427327335",
+        "resp_time": 1368122087
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "1",
+        "hours": "4",
+        "location": "43.702878188341856,-72.29103986173868",
+        "resp_time": 1367893835
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1368230445
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70389746967703,-72.28679367341101",
+        "resp_time": 1367859135
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.705406757071614,-72.28963203728199",
+        "resp_time": 1367869354
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.705429220572114,-72.29127271100879",
+        "resp_time": 1367945835
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1368230455
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "1",
+        "hours": "12",
+        "location": "Unknown",
+        "resp_time": 1368087765
+    },
+    {
+        "course_id": "CS 65",
+        "due": "2",
+        "experience": "3",
+        "hours": "12",
+        "location": "43.70553600601852,-72.29107699356973",
+        "resp_time": 1368718936
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70346668176353,-72.28856099769473",
+        "resp_time": 1368122074
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70553600601852,-72.29107699356973",
+        "resp_time": 1368718969
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70553600601852,-72.29107699356973",
+        "resp_time": 1368718952
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1368835376
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70520072989166,-72.28917254135013",
+        "resp_time": 1368835390
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "4",
+        "hours": "3",
+        "location": "43.70532067492604,-72.28892787359655",
+        "resp_time": 1368835413
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.705461281351745,-72.2910166438669",
+        "resp_time": 1369127661
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "3",
+        "hours": "12",
+        "location": "43.705461281351745,-72.2910166438669",
+        "resp_time": 1369127677
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.705461281351745,-72.2910166438669",
+        "resp_time": 1369127651
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1369162526
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.705348586663604,-72.28977226652205",
+        "resp_time": 1369181213
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1369162526
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "43.705720701254904,-72.29104246012866",
+        "resp_time": 1369272575
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1369331946
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "2",
+        "experience": "2",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1369353982
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1369331966
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1369414837
+    },
+    {
+        "course_id": "German 1",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1369418223
+    },
+    {
+        "course_id": "CS 7",
+        "due": "1",
+        "experience": "4",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1369442411
+    },
+    {
+        "course_id": "German 1 Drill",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1369792961
+    },
+    {
+        "course_id": "German 1",
+        "due": "1",
+        "experience": "3",
+        "hours": "4",
+        "location": "Unknown",
+        "resp_time": 1369792972
+    },
+    {
+        "course_id": "CS 65",
+        "due": "1",
+        "experience": "1",
+        "hours": "12",
+        "location": "Unknown",
+        "resp_time": 1369858131
+    },
+    {
+        "course_id": "Sexperts",
+        "due": "1",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1369874665
+    }
+]

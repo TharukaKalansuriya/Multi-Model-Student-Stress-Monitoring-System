@@ -1,0 +1,294 @@
+[
+    {
+        "null": "6",
+        "resp_time": 1364121451
+    },
+    {
+        "null": "4",
+        "resp_time": 1364121450
+    },
+    {
+        "null": "43.70625476,-72.28706605",
+        "resp_time": 1364118849
+    },
+    {
+        "null": "1",
+        "resp_time": 1364121448
+    },
+    {
+        "null": "3",
+        "resp_time": 1364121908
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70660194,-72.28760119",
+        "resp_time": 1364861065
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70660194,-72.28760119",
+        "resp_time": 1364861084
+    },
+    {
+        "course_id": "engs31 lab",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70574918,-72.29112146",
+        "resp_time": 1364956411
+    },
+    {
+        "course_id": "cs65 smartphone",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70566059,-72.29130704",
+        "resp_time": 1365016029
+    },
+    {
+        "course_id": "engs31",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70546977,-72.29153142",
+        "resp_time": 1364937647
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "2",
+        "hours": "4",
+        "location": "43.70566059,-72.29130704",
+        "resp_time": 1365024865
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "2",
+        "hours": "5",
+        "location": "43.70566059,-72.29130704",
+        "resp_time": 1365026698
+    },
+    {
+        "course_id": "vs 65 section ",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70619631,-72.28823087",
+        "resp_time": 1365045649
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.70619631,-72.28823087",
+        "resp_time": 1365108706
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "2",
+        "hours": "2",
+        "location": "43.7056412,-72.29070799",
+        "resp_time": 1365112974
+    },
+    {
+        "course_id": "engs31 ",
+        "due": "2",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70553772,-72.29041241",
+        "resp_time": 1365200100
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "6",
+        "location": "43.70553772,-72.29041241",
+        "resp_time": 1365194869
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70560342,-72.29137243",
+        "resp_time": 1365463684
+    },
+    {
+        "course_id": "cs65",
+        "due": "1",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70560342,-72.29137243",
+        "resp_time": 1365448089
+    },
+    {
+        "course_id": "engs31",
+        "due": "1",
+        "experience": "3",
+        "hours": "6",
+        "location": "43.70566653,-72.29162127",
+        "resp_time": 1365544449
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70349928,-72.29089432",
+        "resp_time": 1365713563
+    },
+    {
+        "course_id": "engs31 lab",
+        "due": "1",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70566653,-72.29162127",
+        "resp_time": 1365562807
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70565468,-72.29149208",
+        "resp_time": 1365620850
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "5",
+        "location": "43.70509139,-72.29220315",
+        "resp_time": 1365638644
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "43.70234665,-72.28813935",
+        "resp_time": 1365728221
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "2",
+        "hours": "4",
+        "location": "43.70234665,-72.28813935",
+        "resp_time": 1365793725
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70234665,-72.28813935",
+        "resp_time": 1365811359
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.70577871,-72.29093135",
+        "resp_time": 1366324448
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366060914
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366072268
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "7",
+        "location": "43.70523224,-72.29210557",
+        "resp_time": 1366241034
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70586692,-72.29117574",
+        "resp_time": 1366225565
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "7",
+        "location": "43.70571117,-72.29155141",
+        "resp_time": 1366244159
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "4",
+        "location": "43.16724021,-71.52684256",
+        "resp_time": 1366597112
+    },
+    {
+        "course_id": "engs31",
+        "due": "2",
+        "experience": "3",
+        "hours": "3",
+        "location": "44.18328959,-69.83229159",
+        "resp_time": 1366597113
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "Unknown",
+        "resp_time": 1366923104
+    },
+    {
+        "course_id": "",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.70568133,-72.29134343",
+        "resp_time": 1366845173
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "3",
+        "hours": "2",
+        "location": "43.70566341,-72.29149906",
+        "resp_time": 1367008474
+    },
+    {
+        "course_id": "cs65",
+        "due": "2",
+        "experience": "2",
+        "hours": "9",
+        "location": "43.70546467,-72.29120503",
+        "resp_time": 1367434609
+    }
+]

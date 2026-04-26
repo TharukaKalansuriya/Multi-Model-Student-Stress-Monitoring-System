@@ -1,0 +1,58 @@
+[
+    {
+        "location": "43.70424431,-72.28559775",
+        "negative": "3",
+        "nevent": "?",
+        "pevent": "djs meeting",
+        "positive": "3",
+        "resp_time": 1366316880
+    },
+    {
+        "location": "43.70375531,-72.28604079",
+        "negative": "4",
+        "nevent": "",
+        "pevent": "",
+        "positive": "3",
+        "resp_time": 1366390948
+    },
+    {
+        "location": "43.69949922,-72.28974367",
+        "negative": "6",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1366770604
+    },
+    {
+        "location": "43.70552478,-72.28974476",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1367122704
+    },
+    {
+        "location": "43.70396926,-72.28577776",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1366956080
+    },
+    {
+        "location": "43.70406745,-72.2855782",
+        "negative": "6",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1367478872
+    },
+    {
+        "location": "43.70420933,-72.28634886",
+        "negative": "1",
+        "nevent": "",
+        "pevent": "",
+        "positive": "1",
+        "resp_time": 1367393257
+    }
+]

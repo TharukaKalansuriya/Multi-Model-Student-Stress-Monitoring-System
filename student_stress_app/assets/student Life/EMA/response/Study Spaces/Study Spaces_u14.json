@@ -1,0 +1,23 @@
+[
+    {
+        "location": "43.70497161,-72.28670851",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "4",
+        "resp_time": 1366590094
+    },
+    {
+        "location": "43.7048191,-72.2868582",
+        "null": "1",
+        "place": "sudikoff",
+        "productivity": "3",
+        "resp_time": 1366823919
+    },
+    {
+        "location": "43.70453787,-72.28741118",
+        "noise": "1",
+        "place": "sudikoff",
+        "productivity": "4",
+        "resp_time": 1366935025
+    }
+]

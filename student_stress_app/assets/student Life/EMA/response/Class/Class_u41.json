@@ -1,0 +1,78 @@
+[
+    {
+        "null": "t",
+        "resp_time": 1364118388
+    },
+    {
+        "null": "3",
+        "resp_time": 1364122129
+    },
+    {
+        "null": "3",
+        "resp_time": 1364122131
+    },
+    {
+        "null": "Unknown",
+        "resp_time": 1364122132
+    },
+    {
+        "null": "4",
+        "resp_time": 1364122127
+    },
+    {
+        "course_id": "SPAN\n2",
+        "due": "2",
+        "experience": "1",
+        "hours": "2",
+        "location": "43.7039835,-72.28589738",
+        "resp_time": 1364593148
+    },
+    {
+        "course_id": "Cs50",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.7039835,-72.28589738",
+        "resp_time": 1364593116
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "1",
+        "hours": "1",
+        "location": "43.7039835,-72.28589738",
+        "resp_time": 1364593262
+    },
+    {
+        "course_id": "CS50",
+        "due": "2",
+        "experience": "4",
+        "hours": "1",
+        "location": "Unknown",
+        "resp_time": 1365558055
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "43.70525445,-72.2884545",
+        "resp_time": 1365726669
+    },
+    {
+        "course_id": "SPAN2",
+        "due": "2",
+        "experience": "3",
+        "hours": "1",
+        "location": "43.70367091,-72.28590427",
+        "resp_time": 1365641466
+    },
+    {
+        "course_id": "CS65",
+        "due": "2",
+        "experience": "1",
+        "hours": "3",
+        "location": "Unknown",
+        "resp_time": 1366420450
+    }
+]

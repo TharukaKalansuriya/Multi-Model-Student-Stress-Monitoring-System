@@ -1,0 +1,57 @@
+[
+    {
+        "null": "43.70499676,-72.28851178",
+        "resp_time": 1364121780
+    },
+    {
+        "null": "43.70640215,-72.28706842",
+        "resp_time": 1364118734
+    },
+    {
+        "null": "43.70471039,-72.28854445",
+        "resp_time": 1364121450
+    },
+    {
+        "null": "43.70499676,-72.28851178",
+        "resp_time": 1364121454
+    },
+    {
+        "null": "y",
+        "resp_time": 1364121453
+    },
+    {
+        "comment": "having fun with friends",
+        "location": "43.70509271,-72.28680761",
+        "resp_time": 1364584933
+    },
+    {
+        "comment": "entertaining my friend",
+        "location": "43.70468907,-72.28757152",
+        "resp_time": 1364600208
+    },
+    {
+        "comment": "finishing homework",
+        "location": "43.70477259,-72.28698419",
+        "resp_time": 1365498481
+    },
+    {
+        "comment": "trying to finish work",
+        "location": "43.70574434,-72.28750667",
+        "resp_time": 1365544371
+    },
+    {
+        "comment": "trying to brainstorm",
+        "location": "43.70583044,-72.28799584",
+        "resp_time": 1365631492
+    },
+    {
+        "comment": "class canceled",
+        "location": "43.7048191,-72.2868582",
+        "resp_time": 1366823876
+    },
+    {
+        "comment": "girlfriend",
+        "location": "Unknown",
+        "resp_time": 1367103926
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.707123623543964,-72.29069780241105",
+        "resp_time": 1367091362
+    },
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "Unknown",
+        "resp_time": 1367450619
+    },
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.707151418494384,-72.29058943316315",
+        "resp_time": 1367535627
+    },
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "Unknown",
+        "resp_time": 1367791406
+    },
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "Unknown",
+        "resp_time": 1367791408
+    },
+    {
+        "challenge": "1",
+        "effort": "1",
+        "grade": "1",
+        "location": "Unknown",
+        "resp_time": 1367791407
+    },
+    {
+        "challenge": "3",
+        "effort": "3",
+        "grade": "1",
+        "location": "43.70712961272113,-72.29074071996821",
+        "resp_time": 1368172699
+    },
+    {
+        "challenge": "3",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70600375009001,-72.28871367120003",
+        "resp_time": 1368828918
+    },
+    {
+        "challenge": "2",
+        "effort": "1",
+        "grade": "1",
+        "location": "43.70706086014926,-72.29065677866436",
+        "resp_time": 1369376920
+    }
+]
