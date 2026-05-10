@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
 import '../theme/app_colors.dart';
 import 'login_screen.dart';
+import 'auth_wrapper.dart';
 
 class UserProfileScreen extends StatefulWidget {
   const UserProfileScreen({Key? key}) : super(key: key);
@@ -101,7 +102,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
       if (mounted) {
         Navigator.of(context).pushAndRemoveUntil(
           MaterialPageRoute(
-            builder: (context) => const LoginScreen(),
+            builder: (context) => const AuthWrapper(),
           ),
           (route) => false,
         );
@@ -137,7 +138,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
       if (success) {
         Navigator.of(context).pushAndRemoveUntil(
           MaterialPageRoute(
-            builder: (context) => const LoginScreen(),
+            builder: (context) => const AuthWrapper(),
           ),
           (route) => false,
         );

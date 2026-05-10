@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../services/audio_stress_service.dart';
 import '../services/data_collection_scheduler.dart';
@@ -32,6 +33,7 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       PhysicalActivityService();
   late final NotificationService _notificationService;
   late final BackendService _backendService;
+  late DigitalHabitsService _digitalHabitsService; // for recording unlocks
 
   late final AudioStressService _audioService = AudioStressService(
     syncService: _syncService,
@@ -44,6 +46,12 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
   // State
   String _statusMessage = 'Initializing...';
   bool _isInitializing = true;
+  bool _isBackendOnline = false;   // Feature 1: offline banner
+
+ 
+  static const _unlockChannel = MethodChannel('com.student_stress_app/unlock');
+
+  bool _hasPlayedSoundThisCycle = false;
 
   // Current scores (latest snapshot)
   int _audioScore = 0;
@@ -77,19 +85,15 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     super.dispose();
   }
 
-  /// App lifecycle observer — record unlocks when app resumes
+ 
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     if (state == AppLifecycleState.resumed) {
-      _scheduler.recordAppUnlock();
       _refreshDailyData();
     }
   }
 
-  // ═══════════════════════════════════════════════════════════════
-  // INITIALIZATION — Auto-start everything
-  // ═══════════════════════════════════════════════════════════════
-
+ 
   Future<void> _initializeAndAutoStart() async {
     try {
       setState(() {
@@ -98,6 +102,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
 
       // Initialize backend
       await _backendService.initialize();
+
+      // Check backend connectivity immediately (5s timeout, non-blocking)
+      _checkConnectivity();
 
       // Initialize notifications
       await _notificationService.initNotifications();
@@ -119,6 +126,18 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       );
       await _scheduler.initialize();
 
+      // Initialize DigitalHabitsService with same prefs for unlock tracking
+      final prefs = await SharedPreferences.getInstance();
+      _digitalHabitsService = DigitalHabitsService(prefs: prefs);
+
+      // Feature 3: Listen for real device unlock events from native BroadcastReceiver
+      _unlockChannel.setMethodCallHandler((call) async {
+        if (call.method == 'unlock') {
+          _digitalHabitsService.recordUnlock();
+          print('[HomeScreen] Real device unlock recorded via MethodChannel');
+        }
+      });
+
       // Get DailyScoreStore reference
       _dailyScoreStore = _scheduler.dailyScoreStore;
 
@@ -136,12 +155,6 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       });
 
       // AUTO-START: Begin collection immediately
-      // This will:
-      //  1. Collect all 3 scores right now
-      //  2. Store the snapshot
-      //  3. Fetch recommendation
-      //  4. Send notification
-      //  5. Schedule 3-hour repeats
       await _scheduler.startCollection();
 
       // Schedule periodic background work via WorkManager
@@ -201,11 +214,22 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
       Map<String, dynamic>? recommendation) {
     if (!mounted) return;
 
+    // Feature 1: re-check connectivity whenever scores arrive (non-blocking)
+    _checkConnectivity();
+
+    // Feature 2: play sounds on environment score thresholds
+    // Only play when scores actually changed from a real collection, not on init
+    final prevAudio = _audioScore;
+    if (audio != prevAudio) {
+      _playScoreSound(audio);
+    }
+
     setState(() {
       _audioScore = audio;
       _digitalScore = digital;
       _physicalScore = physical;
       _statusMessage = 'Monitoring active';
+      _hasPlayedSoundThisCycle = false; // reset for next cycle
 
       if (recommendation != null) {
         _latestRecommendation = recommendation;
@@ -213,6 +237,52 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     });
 
     _refreshDailyData();
+  }
+
+  /// Fast connectivity check with 5-second timeout.
+  /// Catches ClientException (dropped connection) and SocketException (no network).
+  void _checkConnectivity() {
+    _backendService.checkHealth().timeout(
+      const Duration(seconds: 5),
+      onTimeout: () => {'status': 'disconnected'},
+    ).then((health) {
+      if (mounted) {
+        setState(() {
+          _isBackendOnline = health['status'] == 'connected';
+        });
+        print('[HomeScreen] Backend online: $_isBackendOnline');
+      }
+    }).catchError((e) {
+      // ClientException, SocketException, etc. all mean offline
+      if (mounted) {
+        setState(() => _isBackendOnline = false);
+        print('[HomeScreen] Connectivity check failed (offline): $e');
+      }
+    });
+  }
+
+
+  Future<void> _playScoreSound(int audioScore) async {
+    try {
+      if (audioScore >= 80) {
+        // High stress environment — repeated alert beep
+        await SystemSound.play(SystemSoundType.alert);
+        await Future.delayed(const Duration(milliseconds: 400));
+        await SystemSound.play(SystemSoundType.alert);
+        await Future.delayed(const Duration(milliseconds: 400));
+        await SystemSound.play(SystemSoundType.alert);
+        // Heavy haptic for urgency
+        HapticFeedback.heavyImpact();
+        print('[HomeScreen] 🔔 High stress sound played (score: $audioScore)');
+      } else if (audioScore <= 20 && audioScore > 0) {
+        // Low stress environment — single gentle click
+        await SystemSound.play(SystemSoundType.click);
+        HapticFeedback.lightImpact();
+        print('[HomeScreen] 🎵 Low stress sound played (score: $audioScore)');
+      }
+    } catch (e) {
+      print('[HomeScreen] Sound playback error (non-critical): $e');
+    }
   }
 
   /// Refresh daily averages from the store
@@ -254,6 +324,65 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     }
   }
 
+  /// Reset all data — clears collections for a fresh start
+  Future<void> _resetDemoData() async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: const Text('Quick Fresh Start'),
+        content: const Text(
+          'This will clear all collected scores and history.\n\n'
+          'Use this before a supervisor demo so results start fresh.',
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(ctx, false),
+            child: const Text('Cancel'),
+          ),
+          ElevatedButton(
+            onPressed: () => Navigator.pop(ctx, true),
+            style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
+            child: const Text('Reset', style: TextStyle(color: Colors.white)),
+          ),
+        ],
+      ),
+    );
+
+    if (confirmed == true && mounted) {
+      await _dailyScoreStore?.clearTodayScores();
+      // Also clear the cached last_audio_score so fallback is 0, not 35
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.remove('last_audio_score');
+      await prefs.remove('latest_audio_score');
+      await prefs.remove('latest_digital_score');
+      await prefs.remove('latest_physical_score');
+
+      setState(() {
+        _audioScore = 0;
+        _digitalScore = 0;
+        _physicalScore = 0;
+        _avgAudioScore = 0;
+        _avgDigitalScore = 0;
+        _avgPhysicalScore = 0;
+        _overallAvgScore = 0;
+        _collectionCount = 0;
+        _latestRecommendation = null;
+        _statusMessage = 'Fresh start — collecting scores...';
+        _hasPlayedSoundThisCycle = false;
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('✅ Fresh start! Collecting new scores now...'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+      // Immediately start a new collection cycle
+      await _scheduler.collectNow();
+    }
+  }
+
   /// View full recommendations screen
   void _viewRecommendations() {
     final avg = _dailyScoreStore?.getDailyAverage();
@@ -269,9 +398,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     );
   }
 
-  // ═══════════════════════════════════════════════════════════════
+  
   // BUILD
-  // ═══════════════════════════════════════════════════════════════
+  
 
   @override
   Widget build(BuildContext context) {
@@ -333,8 +462,14 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
                       _buildStatusCard(),
                       const SizedBox(height: 20),
 
-                      // Current Scores (latest snapshot)
-                      if (hasScores) ...[
+                      // Feature 1: Offline banner — always visible when backend unreachable
+                      if (!_isBackendOnline) ...[
+                        _buildOfflineBanner(),
+                        const SizedBox(height: 20),
+                      ],
+
+                      // Current Scores (latest snapshot) — only show when online
+                      if (hasScores && _isBackendOnline) ...[
                         _buildSectionHeader('Current Scores'),
                         const SizedBox(height: 12),
                         _buildScoreCircles(),
@@ -375,9 +510,9 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
     );
   }
 
-  // ═══════════════════════════════════════════════════════════════
+ 
   // WIDGET BUILDERS
-  // ═══════════════════════════════════════════════════════════════
+  
 
   Widget _buildLoadingView() {
     return Center(
@@ -477,6 +612,48 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
         fontWeight: FontWeight.w700,
         color: AppColors.getTextColor(context),
         letterSpacing: 0.3,
+      ),
+    );
+  }
+
+ 
+  Widget _buildOfflineBanner() {
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 16),
+      decoration: BoxDecoration(
+        color: Colors.amber.withOpacity(0.12),
+        border: Border.all(color: Colors.amber.shade700, width: 1.2),
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Row(
+        children: [
+          Icon(Icons.wifi_off_rounded, color: Colors.amber.shade700, size: 28),
+          const SizedBox(width: 14),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Please connect to internet',
+                  style: TextStyle(
+                    fontWeight: FontWeight.w700,
+                    fontSize: 15,
+                    color: Colors.amber.shade800,
+                  ),
+                ),
+                const SizedBox(height: 4),
+                Text(
+                  'Live scores are unavailable while offline.',
+                  style: TextStyle(
+                    fontSize: 12,
+                    color: Colors.amber.shade700,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }
@@ -754,6 +931,20 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
             style: OutlinedButton.styleFrom(
               foregroundColor: AppColors.primary,
               side: const BorderSide(color: AppColors.primary),
+            ),
+          ),
+        ),
+        const SizedBox(height: 12),
+        SizedBox(
+          width: double.infinity,
+          height: 44,
+          child: OutlinedButton.icon(
+            icon: const Icon(Icons.refresh, size: 16),
+            label: const Text('Quick Fresh Start'),
+            onPressed: _resetDemoData,
+            style: OutlinedButton.styleFrom(
+              foregroundColor: Colors.red,
+              side: const BorderSide(color: Colors.red),
             ),
           ),
         ),

@@ -168,6 +168,18 @@ class DailyScoreStore {
   // CLEANUP
   // ═══════════════════════════════════════════════════════════════════
 
+  /// Clear today's scores — use this before a supervisor demo for a clean start
+  Future<void> clearTodayScores() async {
+    await _prefs.remove(_todayKey);
+    await _prefs.remove(_keyLastRecommendation);
+    await _prefs.remove(_keyLastRecTime);
+    await _prefs.remove('last_audio_score');
+    await _prefs.remove('latest_audio_score');
+    await _prefs.remove('latest_digital_score');
+    await _prefs.remove('latest_physical_score');
+    print('[DailyScoreStore] ✅ Today\'s scores cleared for demo');
+  }
+
   /// Clean up old data (keep only last 7 days)
   Future<void> cleanupOldData() async {
     final keys = _prefs.getKeys();

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
 import '../screens/home_screen.dart';
+import '../screens/login_screen.dart';
 
 class AuthWrapper extends StatefulWidget {
   const AuthWrapper({Key? key}) : super(key: key);
@@ -35,8 +36,14 @@ class _AuthWrapperState extends State<AuthWrapper> {
           );
         }
 
-        // Temporarily skipping login page - going directly to HomeScreen
-        return const HomeScreen();
+        return Consumer<AuthProvider>(
+          builder: (context, authProvider, _) {
+            if (authProvider.isAuthenticated) {
+              return const HomeScreen();
+            }
+            return const LoginScreen();
+          },
+        );
       },
     );
   }

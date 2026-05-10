@@ -139,13 +139,13 @@ class DataCollectionScheduler {
         if (probs.isNotEmpty) {
           audioScore = _audioService.computeAudioScore(probs).toInt();
         } else {
-          audioScore = _prefs.getInt('last_audio_score') ?? 35;
+          audioScore = _prefs.getInt('last_audio_score') ?? 0;
         }
         await _prefs.setInt('last_audio_score', audioScore);
         print('[Scheduler] [1/3] Audio score: $audioScore');
       } catch (e) {
         print('[Scheduler] [1/3] Audio failed: $e');
-        audioScore = _prefs.getInt('last_audio_score') ?? 35;
+        audioScore = _prefs.getInt('last_audio_score') ?? 0;
       }
 
       // ─────────────────────────────────────────────────────

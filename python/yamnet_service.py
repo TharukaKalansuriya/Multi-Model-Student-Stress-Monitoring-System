@@ -197,13 +197,13 @@ class YAMNetService:
         'Cannon': 94, 'Nuclear explosion': 99, 'Sonic boom': 97,
         
         # Intense/Alarming Sounds (80-89)
-        'Screaming': 88, 'Yelling': 85, 'Yell': 85, 'Shout': 82,
+        'Screaming': 98, 'Yelling': 85, 'Yell': 85, 'Shout': 82,
         'Crying': 85, 'Siren': 98, 'Police car (siren)': 95,
         'Ambulance (siren)': 95, 'Fire engine': 95, 'Alarm': 88,
         'Emergency vehicle': 88, 'Burglar alarm': 88, 'Alarm bell': 85,
         
         # Traffic/Vehicle Sounds (65-80)
-        'Car horn': 78, 'Car alarm': 80, 'Traffic noise': 75,
+        'Car horn': 98, 'Car alarm': 80, 'Traffic noise': 75,
         'Traffic': 75, 'Motorcycle': 70, 'Motorcycle acceleration': 72,
         'Train': 65, 'Truck': 68, 'Helicopter': 75, 'Aircraft': 70,
         'Airplane': 70, 'Jet engine': 80, 'Car crash': 92,
@@ -363,19 +363,23 @@ class YAMNetService:
                             stress_weight = self.STRESS_WEIGHTS[key]
                             break
                 
-                # Separate high-confidence sounds (>0.1) from low-confidence
-                if confidence >= 0.1:
+                # Include sounds with confidence > 4% in scoring.
+                # Real-world audio (e.g. fire alarm played from a phone speaker)
+                # distributes confidence across many classes; rarely any single
+                # class exceeds 10%. Lowering to 4% ensures genuine detections
+                # contribute to the score instead of always returning the default 35.
+                if confidence >= 0.04:
                     detected_sounds[class_label] = confidence
                     stress_contributions += confidence * (stress_weight / 100)
                     total_confidence += confidence
                     
                     print(f"  [+] {class_label:35s} | Conf: {confidence*100:5.1f}% | Weight: {stress_weight:3d}")
-                elif confidence >= 0.05:
-                    # Low confidence detections (5-10%)
+                elif confidence >= 0.02:
+                    # Very low confidence detections (2-4%)
                     low_confidence_sounds[class_label] = (confidence, stress_weight)
                     print(f"  [!] {class_label:35s} | Conf: {confidence*100:5.1f}% | Weight: {stress_weight:3d} (LOW CONF)")
                 else:
-                    break  # Stop at very low confidences
+                    break  # Stop at near-zero confidences
             
             print("="*70)
             

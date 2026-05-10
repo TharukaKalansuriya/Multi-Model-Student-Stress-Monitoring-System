@@ -37,7 +37,7 @@ digital_habits_analyzer = get_digital_habits_service()
 physical_activity_analyzer = get_physical_activity_service()
 recommendation_engine = get_recommendation_service()
 
-# Global state (For MVP purposes; use a DB like SQLite for production)
+# Global state
 user_stress_data = {
     "physical_risk": 0,
     "sedentary_minutes": 0,

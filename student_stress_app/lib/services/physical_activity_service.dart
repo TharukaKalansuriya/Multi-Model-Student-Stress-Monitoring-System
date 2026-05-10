@@ -189,7 +189,7 @@ class PhysicalActivityService {
   }
 
   // Simulated sensor data for testing
-  // In production, use sensors_plus or device_sensors package
+  // Use sensors_plus or device_sensors package
 
   double _getSimulatedAccX() => 0.1 + (DateTime.now().microsecond % 100) / 100;
   double _getSimulatedAccY() => 9.8 + (DateTime.now().second % 10) / 10;

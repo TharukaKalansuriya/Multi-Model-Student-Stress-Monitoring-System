@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
 import '../theme/app_colors.dart';
 import 'signup_screen.dart';
+import 'auth_wrapper.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
@@ -35,7 +36,10 @@ class _LoginScreenState extends State<LoginScreen> {
       if (!mounted) return;
 
       if (success) {
-        // Navigation handled by auth wrapper
+        Navigator.of(context).pushAndRemoveUntil(
+          MaterialPageRoute(builder: (context) => const AuthWrapper()),
+          (route) => false,
+        );
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Login successful!'),
@@ -227,7 +231,9 @@ class _LoginScreenState extends State<LoginScreen> {
                   // Forgot Password Link
                   TextButton(
                     onPressed: () {
-                      // TODO: Implement forgot password flow
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(content: Text('Please contact your administrator to reset your password.')),
+                      );
                     },
                     child: Text(
                       'Forgot Password?',
@@ -278,7 +284,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
                 GestureDetector(
                   onTap: () {
-                    Navigator.of(context).pushReplacement(
+                    Navigator.of(context).push(
                       MaterialPageRoute(
                         builder: (context) => const SignupScreen(),
                       ),

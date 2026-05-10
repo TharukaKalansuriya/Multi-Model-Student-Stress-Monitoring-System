@@ -31,14 +31,16 @@ class _RecommendationsScreenState extends State<RecommendationsScreen> {
     _loadRecommendations();
   }
 
-  /// Load recommendations from backend
+  /// Load recommendations from backend, with offline fallback
   Future<void> _loadRecommendations() async {
-    try {
+    if (mounted) {
       setState(() {
         _isLoading = true;
         _errorMessage = null;
       });
+    }
 
+    try {
       final result = await _backendService.getRecommendations(
         audioScore: widget.audioScore,
         digitalScore: widget.digitalScore,
@@ -60,9 +62,13 @@ class _RecommendationsScreenState extends State<RecommendationsScreen> {
         });
       }
     } catch (e) {
+      // Backend is unreachable — load hardcoded offline fallback so the
+      // screen is never blank, regardless of network state.
+      print('[RecommendationsScreen] Backend unavailable: $e. Using offline fallback.');
       if (mounted) {
         setState(() {
-          _errorMessage = 'Error: $e';
+          _recommendations = _backendService.getFallbackRecommendations();
+          _errorMessage = null; // Don't show an error — show the fallback data
           _isLoading = false;
         });
       }

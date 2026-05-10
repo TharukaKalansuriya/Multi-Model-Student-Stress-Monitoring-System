@@ -225,7 +225,7 @@ class PhysicalActivityService:
         """
         try:
             # For now, use a practical approach with available sensor data
-            # In production, you'd buffer 128 readings (2.56s at 50Hz) and extract full features
+            # Buffer 128 readings (2.56s at 50Hz) and extract full features
             
             # Get current acceleration and gyro readings
             acc_x = sensor_data.get('acc_x', 0)

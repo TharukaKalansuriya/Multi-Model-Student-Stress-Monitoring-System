@@ -9,7 +9,7 @@ class StorageService {
     return directory.path;
   }
 
-  /// Returns a [File] reference for a model file stored locally.
+ 
   Future<File> getModelFile(String modelFileName) async {
     final basePath = await getAppDocumentsPath();
     return File('$basePath/$modelFileName');

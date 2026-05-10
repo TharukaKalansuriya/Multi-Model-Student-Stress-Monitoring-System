@@ -15,7 +15,7 @@ import 'backend_service.dart';
 ///
 /// Integrates with student life dataset to predict stress from digital behavior
 ///
-/// NOW uses BackendService.getBackendUrl() for centralized URL management.
+
 class DigitalHabitsService {
   static const String _prefixUnlocks = 'daily_unlock_count';
   static const String _prefixScreenTime = 'daily_screen_time';
@@ -241,15 +241,8 @@ class DigitalHabitsService {
 
   /// Get list of installed apps
   Future<List<String>> getInstalledApps() async {
-    try {
-      // Note: DeviceApps package is discontinued
-      // In a production app, you would use a different package or platform channel
-      // For MVP, return empty list
-      return [];
-    } catch (e) {
-      print('[DigitalHabits] Error getting apps: $e');
-      return [];
-    }
+    // Currently returning empty list, device apps retrieval can be implemented natively.
+    return [];
   }
 
   /// Categorize an app

@@ -11,7 +11,7 @@ class AudioStressService {
   final String userId;
 
   static const int _sampleRate = 16000;
-  static const double _defaultScore = 35.0;
+  static const double _defaultScore = 0.0;
 
   late final FlutterSoundRecorder _recorder;
   bool _recorderReady = false;
@@ -305,8 +305,13 @@ class AudioStressService {
               '✓ [AudioStress] YAMNet: "$label" → confidence=${(confidence * 100).toStringAsFixed(1)}%, weight=$weight');
         });
 
+       
+        final backendScore = (json['audio_score'] as num?)?.toDouble() ?? 35.0;
+        detectedLabels['__backend_score__'] = backendScore;
+        print('✓ [AudioStress] Backend YAMNet score (authoritative): ${backendScore.toStringAsFixed(1)}');
+
         print(
-            '✓ [AudioStress] Detected ${detectedLabels.length} audio events from YAMNet');
+            '✓ [AudioStress] Detected ${detectedLabels.length - 1} audio events from YAMNet');
 
         return detectedLabels;
       } else {
@@ -322,7 +327,7 @@ class AudioStressService {
     }
   }
 
-  /// Compute stress score from audio labels
+ 
   double computeAudioScore(Map<String, double> labels) {
     print('\n');
     print(
@@ -339,6 +344,17 @@ class AudioStressService {
       throw Exception('Audio analysis failed: No labels detected');
     }
 
+    // Use the backend's own YAMNet score if available — it covers all 521 classes.
+    if (labels.containsKey('__backend_score__')) {
+      final backendScore = labels['__backend_score__']!.clamp(0.0, 100.0);
+      print('✓ [AudioStress] Using backend YAMNet score directly: ${backendScore.toStringAsFixed(2)}');
+      print(
+          'DEBUG: [AudioStress] ═══════════════════════════════════════════════\n');
+      return backendScore;
+    }
+
+    // Fallback: Flutter-side weighted average (used if backend score not present)
+    print('⚠️ [AudioStress] Backend score not found, using Flutter keyword fallback');
     print('✓ [AudioStress] Labels captured:');
     labels.forEach((label, conf) {
       print('  - "$label": confidence=${(conf * 100).toStringAsFixed(1)}%');

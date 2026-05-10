@@ -7,12 +7,10 @@ class BackendService {
 
   // Supported backend URLs - can be switched at runtime
   static const String _defaultLocalhost = 'http://10.0.2.2:8000';
-  static const String _defaultPhysicalDevice = 'http://192.168.1.1:8000';
+  static const String _defaultPhysicalDevice = 'http://192.168.1.2:8000';
   static const String _ngrokUrl = 'https://attractable-camdyn-otoscopic.ngrok-free.dev';
   
-  // ══════════════════════════════════════════════════════════════════════
-  // IMPORTANT: Default to ngrok URL so physical devices work out of the box
-  // ══════════════════════════════════════════════════════════════════════
+  
   static String _baseUrl = _ngrokUrl;
   static const String _prefUrlKey = 'backend_url_override';
   static const String _prefConnectionModeKey = 'backend_connection_mode';
@@ -26,12 +24,10 @@ class BackendService {
     return _instance;
   }
 
-  // ══════════════════════════════════════════════════════════════════════
-  // STATIC GETTER — All services MUST use this to get the backend URL
-  // ══════════════════════════════════════════════════════════════════════
+  
   static String getBackendUrl() => _baseUrl;
 
-  /// Standard headers for all HTTP requests (includes ngrok bypass)
+  
   static Map<String, String> getHeaders({bool isJson = true}) {
     final headers = <String, String>{
       'ngrok-skip-browser-warning': 'true',
@@ -48,6 +44,8 @@ class BackendService {
   Future<void> initialize() async {
     if (_initialized) return;
     prefs = await SharedPreferences.getInstance();
+    
+    await prefs.remove(_prefUrlKey);
     _loadBackendUrl();
     _initialized = true;
     print('[BackendService] Initialized');
@@ -125,7 +123,7 @@ class BackendService {
       final response = await http.get(
         Uri.parse('$_baseUrl/health'),
         headers: getHeaders(isJson: false),
-      ).timeout(const Duration(seconds: 10));
+      ).timeout(const Duration(seconds: 5));
 
       if (response.statusCode == 200) {
         final data = jsonDecode(response.body);
@@ -246,7 +244,7 @@ class BackendService {
   }
 
   /// Get fallback recommendations when backend is unavailable
-  Map<String, dynamic> _getFallbackRecommendations() {
+  Map<String, dynamic> getFallbackRecommendations() {
     return {
       'scores': {
         'audio': 0,

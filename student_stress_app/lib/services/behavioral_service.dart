@@ -2,14 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-/// BehavioralService — App-Resume stress model
-///
-/// Uses `WidgetsBindingObserver` to detect when the app returns to the
-/// foreground (`AppLifecycleState.resumed`). We treat each resume as a
-/// proxy for a phone "unlock" or context-switch.
-///
-/// Each resume increments a daily counter stored in SharedPreferences.
-///
+
 /// [calculateBehavioralScore] converts the current frequency
 /// (resumes / hours since first resume) into a 0-100 stress score.
 class BehavioralService with WidgetsBindingObserver {
@@ -24,10 +17,10 @@ class BehavioralService with WidgetsBindingObserver {
   // 13+   → High    (65–100)
   static const double _highThreshold = 15.0;
 
-  int _sessionUnlockCount = 0; // in-memory count for this run
+  int _sessionUnlockCount = 0; 
   DateTime? _firstUnlockTime;
 
-  // Track previous state to ensure we only count transitions *into* resumed
+ 
   AppLifecycleState? _previousState;
 
   // ─── Callback called every time a resume is detected ────────────────────

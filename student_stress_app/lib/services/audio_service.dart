@@ -1,13 +1,6 @@
 import 'dart:async';
 
-// NOTE: This service is deprecated. Use AudioStressService instead.
-// import 'package:tflite_audio/tflite_audio.dart';
 
-/// AudioService
-///
-/// DEPRECATED - Use AudioStressService instead.
-/// 
-/// This was the original implementation. It's kept for reference only.
 class AudioService {
   // ─── Asset paths ──────────────────────────────────────────────────────────
   static const String _modelPath = 'assets/yamnet.tflite';
@@ -18,10 +11,6 @@ class AudioService {
   static const int _bufferSize = 2000;
 
   // ─── Stress weight table ──────────────────────────────────────────────────
-  //
-  // Each entry is a keyword (matched as a case-insensitive substring against
-  // the YAMNet label) paired with a stress score in [0, 100].
-  //
   // High-stress sounds  →  80–100
   // Mid-stress sounds   →  40–79
   // Low-stress sounds   →  0–20
@@ -37,8 +26,8 @@ class AudioService {
     _WeightEntry('Artillery', 95),
     _WeightEntry('Screaming', 90),
     _WeightEntry('Scream', 90),
-    _WeightEntry('Traffic noise', 85),
-    _WeightEntry('Traffic', 85),
+    _WeightEntry('Traffic noise', 95),
+    _WeightEntry('Traffic', 95),
     _WeightEntry('Emergency vehicle', 88),
     _WeightEntry('Police car', 88),
     _WeightEntry('Ambulance', 88),
